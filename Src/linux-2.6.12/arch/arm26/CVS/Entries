@@ -1,0 +1,11 @@
+/ACKNOWLEDGEMENTS/1.2/Thu Jan 13 14:05:20 2005/-ko/Tlinux_2_6_12
+/Kconfig/1.14/Thu May 19 12:08:07 2005/-ko/Tlinux_2_6_12
+/Kconfig.debug/1.2/Fri Mar 18 17:36:47 2005/-ko/Tlinux_2_6_12
+/Makefile/1.5/Thu Jan 13 14:05:20 2005/-ko/Tlinux_2_6_12
+/defconfig/1.2/Mon Apr 12 20:23:22 2004/-ko/Tlinux_2_6_12
+D/boot////
+D/kernel////
+D/lib////
+D/machine////
+D/mm////
+D/nwfpe////

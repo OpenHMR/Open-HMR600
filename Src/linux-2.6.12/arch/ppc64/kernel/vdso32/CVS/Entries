@@ -1,0 +1,9 @@
+/Makefile/1.2/Thu May 19 12:08:14 2005/-ko/Tlinux_2_6_12
+/cacheflush.S/1.2/Thu May 19 12:08:14 2005/-ko/Tlinux_2_6_12
+/datapage.S/1.1/Fri Mar 18 17:37:00 2005/-ko/Tlinux_2_6_12
+/gettimeofday.S/1.2/Thu May 19 12:08:14 2005/-ko/Tlinux_2_6_12
+/note.S/1.1/Thu May 19 12:08:14 2005/-ko/Tlinux_2_6_12
+/sigtramp.S/1.1/Fri Mar 18 17:37:00 2005/-ko/Tlinux_2_6_12
+/vdso32.lds.S/1.2/Thu May 19 12:08:14 2005/-ko/Tlinux_2_6_12
+/vdso32_wrapper.S/1.1/Fri Mar 18 17:37:00 2005/-ko/Tlinux_2_6_12
+D

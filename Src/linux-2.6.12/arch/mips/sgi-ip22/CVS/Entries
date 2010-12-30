@@ -1,0 +1,13 @@
+/.cvsignore/1.8/Fri Nov 12 14:11:29 2004/-ko/Tlinux_2_6_12
+/Makefile/1.19/Tue Nov 18 05:15:20 2003/-ko/Tlinux_2_6_12
+/ip22-berr.c/1.11/Fri Sep 24 12:57:42 2004/-ko/Tlinux_2_6_12
+/ip22-eisa.c/1.8/Mon Jul 11 10:03:29 2005/-ko/Tlinux_2_6_12
+/ip22-hpc.c/1.8/Mon Jul 11 10:03:29 2005/-ko/Tlinux_2_6_12
+/ip22-int.c/1.23/Mon Jul 11 10:03:29 2005/-ko/Tlinux_2_6_12
+/ip22-irq.S/1.4/Tue Aug  6 00:08:57 2002/-ko/Tlinux_2_6_12
+/ip22-mc.c/1.12/Tue Nov 18 05:15:20 2003/-ko/Tlinux_2_6_12
+/ip22-nvram.c/1.5/Mon Jul 11 10:03:29 2005/-ko/Tlinux_2_6_12
+/ip22-reset.c/1.17/Mon Jul 11 10:03:29 2005/-ko/Tlinux_2_6_12
+/ip22-setup.c/1.45/Tue Jun 21 13:56:32 2005/-ko/Tlinux_2_6_12
+/ip22-time.c/1.29/Mon Jul 11 10:03:29 2005/-ko/Tlinux_2_6_12
+D

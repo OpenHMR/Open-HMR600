@@ -1,0 +1,15 @@
+/Makefile/1.11/Sun Jun  1 04:11:08 2003/-ko/Tlinux_2_6_12
+/conv.h/1.4/Fri Aug  6 00:33:24 2004/-ko/Tlinux_2_6_12
+/entry64.S/1.10/Mon Dec 27 02:15:52 2004/-ko/Tlinux_2_6_12
+/fs.c/1.33/Mon Oct 25 20:44:21 2004/-ko/Tlinux_2_6_12
+/ioctl.c/1.19/Thu Jan 13 14:05:39 2005/-ko/Tlinux_2_6_12
+/ipc.c/1.6/Fri Aug  6 00:33:24 2004/-ko/Tlinux_2_6_12
+/misc.c/1.42/Tue Oct 12 14:36:34 2004/-ko/Tlinux_2_6_12
+/signal.c/1.8/Fri Aug  6 00:33:24 2004/-ko/Tlinux_2_6_12
+/signal.h/1.2/Tue Aug 25 09:15:54 1998/-ko/Tlinux_2_6_12
+/socket.c/1.13/Fri Aug  6 00:33:24 2004/-ko/Tlinux_2_6_12
+/socksys.c/1.27/Thu Jan 13 14:05:39 2005/-ko/Tlinux_2_6_12
+/socksys.h/1.1/Thu May  7 02:58:43 1998/-ko/Tlinux_2_6_12
+/systbl.S/1.10/Mon Oct 25 20:44:21 2004/-ko/Tlinux_2_6_12
+/timod.c/1.26/Tue Jan 25 04:28:07 2005/-ko/Tlinux_2_6_12
+D

@@ -1,0 +1,14 @@
+/.cvsignore/1.8/Fri Nov 12 14:11:31 2004/-ko/Tlinux_2_6_12
+/Makefile/1.5/Mon Jun  2 10:48:39 2003/-ko/Tlinux_2_6_12
+/utalloc.c/1.17/Mon Feb  7 02:54:42 2005/-ko/Tlinux_2_6_12
+/utcopy.c/1.24/Fri Apr  8 18:58:10 2005/-ko/Tlinux_2_6_12
+/utdebug.c/1.17/Mon Feb  7 02:54:42 2005/-ko/Tlinux_2_6_12
+/utdelete.c/1.21/Fri Apr  8 18:58:10 2005/-ko/Tlinux_2_6_12
+/uteval.c/1.20/Mon Feb  7 02:54:42 2005/-ko/Tlinux_2_6_12
+/utglobal.c/1.33/Fri Apr  8 18:58:10 2005/-ko/Tlinux_2_6_12
+/utinit.c/1.15/Mon Feb  7 02:54:42 2005/-ko/Tlinux_2_6_12
+/utmath.c/1.10/Mon Feb  7 02:54:42 2005/-ko/Tlinux_2_6_12
+/utmisc.c/1.28/Fri Apr  8 18:58:10 2005/-ko/Tlinux_2_6_12
+/utobject.c/1.17/Mon Feb  7 02:54:42 2005/-ko/Tlinux_2_6_12
+/utxface.c/1.16/Mon Feb  7 02:54:42 2005/-ko/Tlinux_2_6_12
+D

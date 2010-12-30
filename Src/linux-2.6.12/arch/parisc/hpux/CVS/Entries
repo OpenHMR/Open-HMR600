@@ -1,0 +1,8 @@
+/Makefile/1.4/Tue Nov  5 15:18:20 2002/-ko/Tlinux_2_6_12
+/entry_hpux.S/1.5/Tue Jan 25 04:28:00 2005/-ko/Tlinux_2_6_12
+/fs.c/1.9/Mon Oct 25 20:44:17 2004/-ko/Tlinux_2_6_12
+/gate.S/1.2/Tue Nov  5 15:18:20 2002/-ko/Tlinux_2_6_12
+/ioctl.c/1.4/Thu Mar 11 16:46:43 2004/-ko/Tlinux_2_6_12
+/sys_hpux.c/1.10/Tue Jan 25 04:28:00 2005/-ko/Tlinux_2_6_12
+/wrappers.S/1.4/Tue Sep 30 14:27:18 2003/-ko/Tlinux_2_6_12
+D

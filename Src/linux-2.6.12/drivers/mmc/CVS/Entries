@@ -1,0 +1,16 @@
+/.cvsignore/1.1/Tue Dec 28 08:06:16 2004/-ko/Tlinux_2_6_12
+/Kconfig/1.5/Thu May 26 09:12:44 2005/-ko/Tlinux_2_6_12
+/Makefile/1.2/Mon Dec 27 02:15:58 2004/-ko/Tlinux_2_6_12
+/mmc.c/1.5/Fri Apr 29 11:15:08 2005/-ko/Tlinux_2_6_12
+/mmc.h/1.1/Tue Aug 24 15:10:10 2004/-ko/Tlinux_2_6_12
+/mmc_block.c/1.8/Thu May 26 09:12:44 2005/-ko/Tlinux_2_6_12
+/mmc_queue.c/1.4/Mon Nov 15 11:49:28 2004/-ko/Tlinux_2_6_12
+/mmc_queue.h/1.3/Mon Nov 15 11:49:28 2004/-ko/Tlinux_2_6_12
+/mmc_sysfs.c/1.4/Fri Apr  8 18:58:18 2005/-ko/Tlinux_2_6_12
+/mmci.c/1.6/Fri Apr 29 11:15:08 2005/-ko/Tlinux_2_6_12
+/mmci.h/1.4/Mon Nov 15 11:49:28 2004/-ko/Tlinux_2_6_12
+/pxamci.c/1.9/Fri Apr 29 11:15:08 2005/-ko/Tlinux_2_6_12
+/pxamci.h/1.2/Sat Dec  4 18:16:04 2004/-ko/Tlinux_2_6_12
+/wbsd.c/1.5/Thu May 26 09:12:44 2005/-ko/Tlinux_2_6_12
+/wbsd.h/1.3/Thu May 26 09:12:44 2005/-ko/Tlinux_2_6_12
+D

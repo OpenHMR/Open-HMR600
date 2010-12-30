@@ -1,0 +1,1 @@
+#define CONFIG_8139CP_VENUS_RX_MIT 1

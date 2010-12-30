@@ -1,0 +1,6 @@
+/.cvsignore/1.9/Fri Nov 12 14:11:35 2004/-ko/Tlinux_2_6_12
+/Makefile/1.8/Mon Jun  2 10:48:41 2003/-ko/Tlinux_2_6_12
+/dvma.c/1.12/Tue Oct 12 01:45:46 2004/-ko/Tlinux_2_6_12
+/sbus.c/1.29/Tue Jan 25 04:28:41 2005/-ko/Tlinux_2_6_12
+D/audio////
+D/char////

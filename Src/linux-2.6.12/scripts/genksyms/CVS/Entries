@@ -1,0 +1,12 @@
+/.cvsignore/1.7/Fri Nov 12 14:11:40 2004/-ko/Tlinux_2_6_12
+/Makefile/1.6/Tue Aug 24 15:10:19 2004/-ko/Tlinux_2_6_12
+/genksyms.c/1.2/Sun Sep 19 12:30:24 2004/-ko/Tlinux_2_6_12
+/genksyms.h/1.2/Fri Mar 18 17:38:29 2005/-ko/Tlinux_2_6_12
+/keywords.c_shipped/1.1/Wed Jun  4 18:14:34 2003/-ko/Tlinux_2_6_12
+/keywords.gperf/1.1/Wed Jun  4 18:14:34 2003/-ko/Tlinux_2_6_12
+/lex.c_shipped/1.2/Fri Aug 15 15:14:41 2003/-ko/Tlinux_2_6_12
+/lex.l/1.2/Fri Aug 15 15:14:41 2003/-ko/Tlinux_2_6_12
+/parse.c_shipped/1.2/Fri Aug  6 00:33:33 2004/-ko/Tlinux_2_6_12
+/parse.h_shipped/1.1/Wed Jun  4 18:14:34 2003/-ko/Tlinux_2_6_12
+/parse.y/1.2/Fri Apr 23 15:54:24 2004/-ko/Tlinux_2_6_12
+D

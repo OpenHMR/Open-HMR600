@@ -1,0 +1,15 @@
+/.cvsignore/1.8/Fri Nov 12 14:11:34 2004/-ko/Tlinux_2_6_12
+/Kconfig/1.7/Tue Jan 25 04:28:34 2005/-ko/Tlinux_2_6_12
+/Makefile/1.7/Thu Jan 13 14:06:13 2005/-ko/Tlinux_2_6_12
+/arc-rawmode.c/1.8/Fri Mar 18 17:37:35 2005/-ko/Tlinux_2_6_12
+/arc-rimi.c/1.13/Fri Mar 18 17:37:35 2005/-ko/Tlinux_2_6_12
+/arcnet.c/1.26/Fri Apr  8 18:58:19 2005/-ko/Tlinux_2_6_12
+/capmode.c/1.2/Thu May 19 12:08:26 2005/-ko/Tlinux_2_6_12
+/com20020-isa.c/1.15/Thu Jan 13 14:06:13 2005/-ko/Tlinux_2_6_12
+/com20020-pci.c/1.21/Thu Feb 19 03:06:28 2004/-ko/Tlinux_2_6_12
+/com20020.c/1.12/Fri Mar 18 17:37:35 2005/-ko/Tlinux_2_6_12
+/com90io.c/1.15/Fri Mar 18 17:37:35 2005/-ko/Tlinux_2_6_12
+/com90xx.c/1.16/Fri Mar 18 17:37:35 2005/-ko/Tlinux_2_6_12
+/rfc1051.c/1.8/Fri Mar 18 17:37:35 2005/-ko/Tlinux_2_6_12
+/rfc1201.c/1.11/Fri Mar 18 17:37:35 2005/-ko/Tlinux_2_6_12
+D

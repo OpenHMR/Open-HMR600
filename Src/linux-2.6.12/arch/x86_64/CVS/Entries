@@ -1,0 +1,11 @@
+/Kconfig/1.45/Tue Jun  7 13:45:31 2005/-ko/Tlinux_2_6_12
+/Kconfig.debug/1.5/Mon Nov 15 11:49:22 2004/-ko/Tlinux_2_6_12
+/Makefile/1.32/Thu Jan 13 14:05:42 2005/-ko/Tlinux_2_6_12
+/defconfig/1.40/Thu May 26 09:12:39 2005/-ko/Tlinux_2_6_12
+D/boot////
+D/ia32////
+D/kernel////
+D/lib////
+D/mm////
+D/oprofile////
+D/pci////

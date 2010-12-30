@@ -1,0 +1,9 @@
+/.cvsignore/1.11/Fri Nov 12 14:11:39 2004/-ko/Tlinux_2_6_12
+/ChangeLog/1.1/Fri Nov  1 22:08:36 2002/-ko/Tlinux_2_6_12
+/Kconfig/1.2/Thu Jun  5 14:43:39 2003/-ko/Tlinux_2_6_12
+/Makefile/1.14/Thu Jun  5 18:24:13 2003/-ko/Tlinux_2_6_12
+/af_ipx.c/1.61/Fri Apr  8 18:58:51 2005/-ko/Tlinux_2_6_12
+/ipx_proc.c/1.9/Tue Jan 25 04:29:06 2005/-ko/Tlinux_2_6_12
+/ipx_route.c/1.5/Tue Jan 25 04:29:06 2005/-ko/Tlinux_2_6_12
+/sysctl_net_ipx.c/1.5/Wed Oct 30 22:28:23 2002/-ko/Tlinux_2_6_12
+D

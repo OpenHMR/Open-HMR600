@@ -1,0 +1,22 @@
+/.cvsignore/1.8/Fri Nov 12 14:11:34 2004/-ko/Tlinux_2_6_12
+/Kconfig/1.6/Fri Mar 18 17:37:32 2005/-ko/Tlinux_2_6_12
+/Makefile/1.17/Sat Aug 14 16:16:42 2004/-ko/Tlinux_2_6_12
+/afs.c/1.6/Tue Jul 20 20:21:20 2004/-ko/Tlinux_2_6_12
+/cmdlinepart.c/1.7/Thu Jan 13 14:06:08 2005/-ko/Tlinux_2_6_12
+/ftl.c/1.41/Thu Jan 13 14:06:08 2005/-ko/Tlinux_2_6_12
+/inftlcore.c/1.7/Sat Dec  4 18:16:04 2004/-ko/Tlinux_2_6_12
+/inftlmount.c/1.7/Thu Jan 13 14:06:08 2005/-ko/Tlinux_2_6_12
+/mtd_blkdevs.c/1.11/Sat Dec  4 18:16:04 2004/-ko/Tlinux_2_6_12
+/mtdblock.c/1.45/Thu Jan 13 14:06:08 2005/-ko/Tlinux_2_6_12
+/mtdblock_ro.c/1.23/Sat Dec  4 18:16:04 2004/-ko/Tlinux_2_6_12
+/mtdchar.c/1.25/Fri Mar 18 17:37:32 2005/-ko/Tlinux_2_6_12
+/mtdconcat.c/1.5/Tue Jul 20 20:21:20 2004/-ko/Tlinux_2_6_12
+/mtdcore.c/1.12/Sat Dec  4 18:16:04 2004/-ko/Tlinux_2_6_12
+/mtdpart.c/1.10/Tue Jan 25 04:28:22 2005/-ko/Tlinux_2_6_12
+/nftlcore.c/1.32/Sat Dec  4 18:16:04 2004/-ko/Tlinux_2_6_12
+/nftlmount.c/1.13/Thu Jan 13 14:06:08 2005/-ko/Tlinux_2_6_12
+/redboot.c/1.7/Thu Jan 13 14:06:08 2005/-ko/Tlinux_2_6_12
+D/chips////
+D/devices////
+D/maps////
+D/nand////

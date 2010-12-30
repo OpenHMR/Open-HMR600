@@ -1,0 +1,1 @@
+#define CONFIG_REALTEK_VENUS_USB 1

@@ -1,0 +1,35 @@
+---------------------------------------------------
+Release for rtl8192SE linux driver
+
+---------------------------------------------------------------------------------------------
+Release date = 2009-02-27
+Operating system release = FC6 
+Kernel version = 2.6.18
+Release driver version = 0001.0120.2009
+Change history =
+	1. First Release for 8192SE.
+
+---------------------------------------------------------------------------------------------
+Release date = 2009-03-20
+Operating system release = Ubuntu 8.10 
+Kernel version = 2.6.27
+Release driver version = 0002.0320.2009
+Change history =
+	1. Update firmware and phy parameters.
+	2. Synchronize HAL with windows.
+
+---------------------------------------------------------------------------------------------
+Release date = 2009-04-01
+Operating system release = Ubuntu 8.10 
+Kernel version = 2.6.27
+Release driver version = 0003.0401.2009
+Change history =
+	1. Revise some IOT issues.
+        2. added power save feature.
+---------------------------------------------------------------------------------------------
+Release date = 2009-04-14
+Operating system release = Ubuntu 8.10 
+Kernel version = 2.6.27
+Release driver version = 0006.0414.2009
+Change history =
+	1. update GPIO function.

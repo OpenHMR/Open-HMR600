@@ -1,0 +1,20 @@
+/.cvsignore/1.8/Fri Nov 12 14:11:36 2004/-ko/Tlinux_2_6_12
+/300vtbl.h/1.6/Thu Jan 13 14:06:31 2005/-ko/Tlinux_2_6_12
+/310vtbl.h/1.6/Thu Jan 13 14:06:31 2005/-ko/Tlinux_2_6_12
+/Makefile/1.8/Wed Jun  4 14:05:48 2003/-ko/Tlinux_2_6_12
+/init.c/1.7/Thu May 19 12:08:34 2005/-ko/Tlinux_2_6_12
+/init.h/1.7/Thu May 19 12:08:34 2005/-ko/Tlinux_2_6_12
+/init301.c/1.10/Thu May 19 12:08:34 2005/-ko/Tlinux_2_6_12
+/init301.h/1.7/Thu May 19 12:08:34 2005/-ko/Tlinux_2_6_12
+/initdef.h/1.7/Thu Jan 13 14:06:31 2005/-ko/Tlinux_2_6_12
+/oem300.h/1.6/Thu Jan 13 14:06:31 2005/-ko/Tlinux_2_6_12
+/oem310.h/1.6/Thu Jan 13 14:06:31 2005/-ko/Tlinux_2_6_12
+/osdef.h/1.6/Thu Jan 13 14:06:31 2005/-ko/Tlinux_2_6_12
+/sis.h/1.7/Tue Jan 25 04:28:47 2005/-ko/Tlinux_2_6_12
+/sis_accel.c/1.5/Sat Jun 26 15:15:20 2004/-ko/Tlinux_2_6_12
+/sis_accel.h/1.4/Sat Jun 26 15:15:20 2004/-ko/Tlinux_2_6_12
+/sis_main.c/1.31/Thu May 19 12:08:34 2005/-ko/Tlinux_2_6_12
+/sis_main.h/1.9/Thu Jan 13 14:06:31 2005/-ko/Tlinux_2_6_12
+/vgatypes.h/1.6/Thu Jan 13 14:06:31 2005/-ko/Tlinux_2_6_12
+/vstruct.h/1.6/Thu Jan 13 14:06:31 2005/-ko/Tlinux_2_6_12
+D

@@ -1,0 +1,15 @@
+/.cvsignore/1.9/Fri Nov 12 14:11:35 2004/-ko/Tlinux_2_6_12
+/Kconfig/1.9/Sun Jun  6 02:12:48 2004/-ko/Tlinux_2_6_12
+/Makefile/1.9/Sun Jun  6 02:12:48 2004/-ko/Tlinux_2_6_12
+/aha152x_core.c/1.1/Tue Jun  3 12:49:04 2003/-ko/Tlinux_2_6_12
+/aha152x_stub.c/1.24/Tue Jan 25 04:28:43 2005/-ko/Tlinux_2_6_12
+/fdomain_core.c/1.1/Tue Jun  3 12:49:04 2003/-ko/Tlinux_2_6_12
+/fdomain_stub.c/1.24/Tue Jan 25 04:28:43 2005/-ko/Tlinux_2_6_12
+/nsp_cs.c/1.31/Tue Jan 25 04:28:43 2005/-ko/Tlinux_2_6_12
+/nsp_cs.h/1.11/Sun Jun  6 02:12:48 2004/-ko/Tlinux_2_6_12
+/nsp_debug.c/1.7/Fri Apr 23 15:54:16 2004/-ko/Tlinux_2_6_12
+/nsp_io.h/1.5/Tue Aug 26 00:28:57 2003/-ko/Tlinux_2_6_12
+/nsp_message.c/1.7/Tue Aug 26 00:28:57 2003/-ko/Tlinux_2_6_12
+/qlogic_stub.c/1.25/Tue Jan 25 04:28:44 2005/-ko/Tlinux_2_6_12
+/sym53c500_cs.c/1.5/Tue Jan 25 04:28:44 2005/-ko/Tlinux_2_6_12
+D

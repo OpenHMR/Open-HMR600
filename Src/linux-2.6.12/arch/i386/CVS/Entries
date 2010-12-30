@@ -1,0 +1,18 @@
+/Kconfig/1.55/Tue Jun  7 13:45:26 2005/-ko/Tlinux_2_6_12
+/Kconfig.debug/1.4/Fri Mar 18 17:36:48 2005/-ko/Tlinux_2_6_12
+/Makefile/1.70/Thu May 19 12:08:08 2005/-ko/Tlinux_2_6_12
+/defconfig/1.109/Fri Mar 18 17:36:48 2005/-ko/Tlinux_2_6_12
+D/boot////
+D/crypto////
+D/kernel////
+D/lib////
+D/mach-default////
+D/mach-es7000////
+D/mach-generic////
+D/mach-visws////
+D/mach-voyager////
+D/math-emu////
+D/mm////
+D/oprofile////
+D/pci////
+D/power////

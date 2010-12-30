@@ -1,0 +1,1 @@
+#define CONFIG_LOCALVERSION ".6-VENUS"

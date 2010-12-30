@@ -1,0 +1,12 @@
+/Makefile/1.1/Fri Jul 11 02:13:09 2003/-ko/Tlinux_2_6_12
+/checksum.S/1.1/Fri Jul 11 02:13:09 2003/-ko/Tlinux_2_6_12
+/checksumcopy.S/1.1/Fri Jul 11 02:13:09 2003/-ko/Tlinux_2_6_12
+/csumcpfruser.S/1.1/Fri Jul 11 02:13:09 2003/-ko/Tlinux_2_6_12
+/dmacopy.c/1.1/Fri Jul 11 02:13:09 2003/-ko/Tlinux_2_6_12
+/dram_init.S/1.2/Wed Jun  9 14:12:04 2004/-ko/Tlinux_2_6_12
+/hw_settings.S/1.1/Fri Jul 11 02:13:09 2003/-ko/Tlinux_2_6_12
+/memset.c/1.1/Fri Jul 11 02:13:09 2003/-ko/Tlinux_2_6_12
+/old_checksum.c/1.4/Wed Jun  9 14:12:04 2004/-ko/Tlinux_2_6_12
+/string.c/1.1/Fri Jul 11 02:13:09 2003/-ko/Tlinux_2_6_12
+/usercopy.c/1.1/Fri Jul 11 02:13:09 2003/-ko/Tlinux_2_6_12
+D

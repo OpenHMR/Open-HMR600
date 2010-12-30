@@ -1,0 +1,13 @@
+/Makefile/1.17/Mon Feb 28 15:45:12 2005/-ko/Tlinux_2_6_12
+/bootstr.c/1.9/Thu Feb  5 02:39:57 2004/-ko/Tlinux_2_6_12
+/cif.S/1.1/Mon Feb 28 15:45:12 2005/-ko/Tlinux_2_6_12
+/console.c/1.6/Sun Jun 22 23:09:50 2003/-ko/Tlinux_2_6_12
+/devops.c/1.4/Tue Mar 17 22:09:00 1998/-ko/Tlinux_2_6_12
+/init.c/1.7/Thu Jul  3 03:41:08 2003/-ko/Tlinux_2_6_12
+/map.S/1.2/Fri Apr  8 18:58:05 2005/-ko/Tlinux_2_6_12
+/memory.c/1.7/Sun Feb 13 20:16:20 2005/-ko/Tlinux_2_6_12
+/misc.c/1.21/Wed Jun  4 18:14:26 2003/-ko/Tlinux_2_6_12
+/p1275.c/1.14/Fri Apr  8 18:58:05 2005/-ko/Tlinux_2_6_12
+/printf.c/1.6/Thu Mar 11 16:46:46 2004/-ko/Tlinux_2_6_12
+/tree.c/1.4/Tue Mar 17 22:09:01 1998/-ko/Tlinux_2_6_12
+D

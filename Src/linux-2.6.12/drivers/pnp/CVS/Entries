@@ -1,0 +1,16 @@
+/.cvsignore/1.9/Fri Nov 12 14:11:35 2004/-ko/Tlinux_2_6_12
+/Kconfig/1.9/Mon Nov 15 11:49:30 2004/-ko/Tlinux_2_6_12
+/Makefile/1.22/Mon Nov 15 11:49:30 2004/-ko/Tlinux_2_6_12
+/base.h/1.6/Fri Aug 15 15:14:36 2003/-ko/Tlinux_2_6_12
+/card.c/1.9/Thu Feb 19 03:06:30 2004/-ko/Tlinux_2_6_12
+/core.c/1.14/Fri Mar 18 17:37:43 2005/-ko/Tlinux_2_6_12
+/driver.c/1.8/Thu Jun  5 00:04:35 2003/-ko/Tlinux_2_6_12
+/interface.c/1.16/Fri Mar 18 17:37:43 2005/-ko/Tlinux_2_6_12
+/manager.c/1.12/Thu May 19 12:08:28 2005/-ko/Tlinux_2_6_12
+/quirks.c/1.17/Mon Nov 15 11:49:30 2004/-ko/Tlinux_2_6_12
+/resource.c/1.20/Fri Apr  8 18:58:22 2005/-ko/Tlinux_2_6_12
+/support.c/1.5/Fri Aug 15 15:14:36 2003/-ko/Tlinux_2_6_12
+/system.c/1.9/Tue Oct 12 14:36:37 2004/-ko/Tlinux_2_6_12
+D/isapnp////
+D/pnpacpi////
+D/pnpbios////

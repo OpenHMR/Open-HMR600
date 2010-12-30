@@ -1,0 +1,5 @@
+/.cvsignore/1.6/Tue Nov 16 17:28:50 2004/-ko/Tlinux_2_6_12
+/Makefile/1.12/Thu Jan 13 14:07:19 2005/-ko/Tlinux_2_6_12
+/gen_init_cpio.c/1.10/Sun Feb 13 20:16:34 2005/-ko/Tlinux_2_6_12
+/initramfs_data.S/1.1/Tue Jul 29 14:26:30 2003/-ko/Tlinux_2_6_12
+D

@@ -1,0 +1,12 @@
+/Makefile/1.1/Tue Oct 12 01:45:41 2004/-ko/Tlinux_2_6_12
+/ashxdi3.S/1.1/Tue Oct 12 01:45:41 2004/-ko/Tlinux_2_6_12
+/checksum.S/1.1/Tue Oct 12 01:45:41 2004/-ko/Tlinux_2_6_12
+/csum_partial_copy.c/1.2/Tue Jan 25 04:27:58 2005/-ko/Tlinux_2_6_12
+/delay.c/1.2/Mon Nov 15 11:49:17 2004/-ko/Tlinux_2_6_12
+/getuser.S/1.1/Tue Oct 12 01:45:41 2004/-ko/Tlinux_2_6_12
+/memcpy.S/1.1/Tue Oct 12 01:45:41 2004/-ko/Tlinux_2_6_12
+/memset.S/1.2/Mon Nov 15 11:49:17 2004/-ko/Tlinux_2_6_12
+/putuser.S/1.1/Tue Oct 12 01:45:41 2004/-ko/Tlinux_2_6_12
+/strlen.S/1.1/Tue Oct 12 01:45:41 2004/-ko/Tlinux_2_6_12
+/usercopy.c/1.1/Tue Oct 12 01:45:41 2004/-ko/Tlinux_2_6_12
+D

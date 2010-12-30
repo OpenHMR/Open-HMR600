@@ -1,0 +1,20 @@
+/.cvsignore/1.9/Mon Jul 11 09:51:39 2005/-ko/Tlinux_2_6_12
+/Makefile/1.10/Wed Jun  4 14:05:53 2003/-ko/Tlinux_2_6_12
+/emu8000.c/1.13/Fri Mar 18 17:38:32 2005/-ko/Tlinux_2_6_12
+/emu8000_callback.c/1.6/Thu Jan 13 14:07:12 2005/-ko/Tlinux_2_6_12
+/emu8000_local.h/1.4/Sun Sep 19 12:30:25 2004/-ko/Tlinux_2_6_12
+/emu8000_patch.c/1.8/Fri Mar 18 17:38:32 2005/-ko/Tlinux_2_6_12
+/emu8000_pcm.c/1.10/Thu Jan 13 14:07:12 2005/-ko/Tlinux_2_6_12
+/emu8000_synth.c/1.5/Sun Sep 19 12:30:25 2004/-ko/Tlinux_2_6_12
+/es968.c/1.17/Mon Oct 25 20:44:49 2004/-ko/Tlinux_2_6_12
+/sb16.c/1.18/Mon Oct 25 20:44:49 2004/-ko/Tlinux_2_6_12
+/sb16_csp.c/1.10/Sun Sep 19 12:30:25 2004/-ko/Tlinux_2_6_12
+/sb16_csp_codecs.h/1.1/Mon Jul 22 07:27:29 2002/-ko/Tlinux_2_6_12
+/sb16_main.c/1.11/Thu Jan 13 14:07:12 2005/-ko/Tlinux_2_6_12
+/sb8.c/1.14/Mon Oct 25 20:44:49 2004/-ko/Tlinux_2_6_12
+/sb8_main.c/1.9/Thu Jan 13 14:07:12 2005/-ko/Tlinux_2_6_12
+/sb8_midi.c/1.6/Fri Mar 18 17:38:32 2005/-ko/Tlinux_2_6_12
+/sb_common.c/1.12/Thu Jan 13 14:07:12 2005/-ko/Tlinux_2_6_12
+/sb_mixer.c/1.7/Sun Sep 19 12:30:25 2004/-ko/Tlinux_2_6_12
+/sbawe.c/1.1/Mon Jul 22 07:27:30 2002/-ko/Tlinux_2_6_12
+D

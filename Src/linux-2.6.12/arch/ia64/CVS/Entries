@@ -1,0 +1,17 @@
+/Kconfig/1.41/Thu May 19 12:08:09 2005/-ko/Tlinux_2_6_12
+/Kconfig.debug/1.2/Tue Jan 25 04:27:56 2005/-ko/Tlinux_2_6_12
+/Makefile/1.48/Sun Feb 13 20:16:15 2005/-ko/Tlinux_2_6_12
+/defconfig/1.35/Tue Jan 25 04:27:56 2005/-ko/Tlinux_2_6_12
+/install.sh/1.1/Thu Mar 11 16:46:42 2004/-ko/Tlinux_2_6_12
+/module.lds/1.1/Thu Jun  5 14:43:26 2003/-ko/Tlinux_2_6_12
+D/configs////
+D/dig////
+D/hp////
+D/ia32////
+D/kernel////
+D/lib////
+D/mm////
+D/oprofile////
+D/pci////
+D/scripts////
+D/sn////

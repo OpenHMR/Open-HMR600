@@ -1,0 +1,12 @@
+/Kconfig/1.16/Thu Jan 13 14:05:23 2005/-ko/Tlinux_2_6_12
+/Kconfig.cpu/1.1/Sun Jun  6 02:12:35 2004/-ko/Tlinux_2_6_12
+/Kconfig.debug/1.1/Tue Aug 24 15:10:04 2004/-ko/Tlinux_2_6_12
+/Kconfig.ide/1.3/Sun Jun  6 02:12:35 2004/-ko/Tlinux_2_6_12
+/Makefile/1.7/Mon Feb  7 02:54:31 2005/-ko/Tlinux_2_6_12
+/README/1.3/Sun Oct 19 00:50:07 2003/-ko/Tlinux_2_6_12
+/defconfig/1.5/Tue Jan 25 04:27:54 2005/-ko/Tlinux_2_6_12
+D/boot////
+D/kernel////
+D/lib////
+D/mm////
+D/platform////

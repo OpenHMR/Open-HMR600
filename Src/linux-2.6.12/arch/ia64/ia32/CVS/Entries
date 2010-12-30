@@ -1,0 +1,12 @@
+/Makefile/1.15/Sun Jun  6 02:12:36 2004/-ko/Tlinux_2_6_12
+/binfmt_elf32.c/1.35/Mon Feb  7 02:54:32 2005/-ko/Tlinux_2_6_12
+/elfcore32.h/1.5/Mon Feb  7 02:54:32 2005/-ko/Tlinux_2_6_12
+/ia32_entry.S/1.39/Fri Mar 18 17:36:51 2005/-ko/Tlinux_2_6_12
+/ia32_ioctl.c/1.17/Thu May 26 09:12:37 2005/-ko/Tlinux_2_6_12
+/ia32_ldt.c/1.5/Tue Oct 12 14:36:32 2004/-ko/Tlinux_2_6_12
+/ia32_signal.c/1.29/Thu May 19 12:08:09 2005/-ko/Tlinux_2_6_12
+/ia32_support.c/1.17/Tue Oct 12 14:36:32 2004/-ko/Tlinux_2_6_12
+/ia32_traps.c/1.8/Tue Aug 26 00:28:50 2003/-ko/Tlinux_2_6_12
+/ia32priv.h/1.14/Fri Mar 18 17:36:51 2005/-ko/Tlinux_2_6_12
+/sys_ia32.c/1.74/Tue Jun  7 13:45:26 2005/-ko/Tlinux_2_6_12
+D

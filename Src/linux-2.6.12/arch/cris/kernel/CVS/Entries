@@ -1,0 +1,12 @@
+/Makefile/1.18/Tue Aug 24 15:10:04 2004/-ko/Tlinux_2_6_12
+/crisksyms.c/1.3/Sun Sep 19 12:30:02 2004/-ko/Tlinux_2_6_12
+/irq.c/1.18/Tue Jan 25 04:27:54 2005/-ko/Tlinux_2_6_12
+/module.c/1.2/Wed Jun  9 14:12:04 2004/-ko/Tlinux_2_6_12
+/process.c/1.17/Sat Jun 26 15:15:08 2004/-ko/Tlinux_2_6_12
+/ptrace.c/1.10/Fri Jul 11 02:13:10 2003/-ko/Tlinux_2_6_12
+/semaphore.c/1.3/Fri Apr 23 15:54:06 2004/-ko/Tlinux_2_6_12
+/setup.c/1.16/Fri Mar 18 17:36:48 2005/-ko/Tlinux_2_6_12
+/sys_cris.c/1.11/Wed Jun  9 14:12:04 2004/-ko/Tlinux_2_6_12
+/time.c/1.13/Wed Jun  9 14:12:04 2004/-ko/Tlinux_2_6_12
+/traps.c/1.14/Wed Jun  9 14:12:04 2004/-ko/Tlinux_2_6_12
+D

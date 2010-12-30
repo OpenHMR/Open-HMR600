@@ -1,0 +1,1 @@
+#define CONFIG_VCD_MODULE 1

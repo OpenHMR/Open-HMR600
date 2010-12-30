@@ -1,0 +1,14 @@
+/Makefile/1.14/Mon Oct 25 20:44:20 2004/-ko/Tlinux_2_6_12
+/checksum.S/1.7/Fri Oct 19 01:23:48 2001/-ko/Tlinux_2_6_12
+/delay.c/1.5/Thu Jan 13 14:05:37 2005/-ko/Tlinux_2_6_12
+/div64-generic.c/1.1/Thu Feb  5 02:39:57 2004/-ko/Tlinux_2_6_12
+/div64.S/1.2/Thu Feb  5 02:39:57 2004/-ko/Tlinux_2_6_12
+/memchr.S/1.2/Tue Nov  6 00:54:59 2001/-ko/Tlinux_2_6_12
+/memcpy-sh4.S/1.1/Mon Oct 25 20:44:20 2004/-ko/Tlinux_2_6_12
+/memcpy.S/1.4/Tue Nov  6 00:54:59 2001/-ko/Tlinux_2_6_12
+/memmove.S/1.5/Tue Sep  3 03:16:10 2002/-ko/Tlinux_2_6_12
+/memset.S/1.4/Tue Nov  6 00:54:59 2001/-ko/Tlinux_2_6_12
+/strcasecmp.c/1.1/Fri Aug 25 06:33:45 2000/-ko/Tlinux_2_6_12
+/strlen.S/1.1/Fri Oct 19 01:23:48 2001/-ko/Tlinux_2_6_12
+/udivdi3.c/1.2/Thu Feb  5 02:39:57 2004/-ko/Tlinux_2_6_12
+D

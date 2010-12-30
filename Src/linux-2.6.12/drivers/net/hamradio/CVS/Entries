@@ -1,0 +1,19 @@
+/.cvsignore/1.10/Fri Nov 12 14:11:34 2004/-ko/Tlinux_2_6_12
+/6pack.c/1.28/Thu May 19 12:08:26 2005/-ko/Tlinux_2_6_12
+/Kconfig/1.11/Thu May 19 12:08:26 2005/-ko/Tlinux_2_6_12
+/Makefile/1.15/Wed Jun  4 14:05:45 2003/-ko/Tlinux_2_6_12
+/baycom_epp.c/1.35/Tue Jun  7 13:45:35 2005/-ko/Tlinux_2_6_12
+/baycom_par.c/1.24/Fri Mar 18 17:37:37 2005/-ko/Tlinux_2_6_12
+/baycom_ser_fdx.c/1.22/Fri Mar 18 17:37:37 2005/-ko/Tlinux_2_6_12
+/baycom_ser_hdx.c/1.22/Fri Mar 18 17:37:37 2005/-ko/Tlinux_2_6_12
+/bpqether.c/1.32/Thu May 19 12:08:26 2005/-ko/Tlinux_2_6_12
+/dmascc.c/1.26/Thu May 19 12:08:26 2005/-ko/Tlinux_2_6_12
+/hdlcdrv.c/1.25/Thu May 19 12:08:26 2005/-ko/Tlinux_2_6_12
+/mkiss.c/1.29/Thu May 19 12:08:26 2005/-ko/Tlinux_2_6_12
+/mkiss.h/1.7/Thu Feb 19 03:06:28 2004/-ko/Tlinux_2_6_12
+/scc.c/1.41/Thu May 19 12:08:26 2005/-ko/Tlinux_2_6_12
+/yam.c/1.28/Thu May 19 12:08:26 2005/-ko/Tlinux_2_6_12
+/yam1200.h/1.2/Sat Oct  9 00:01:25 1999/-ko/Tlinux_2_6_12
+/yam9600.h/1.2/Sat Oct  9 00:01:25 1999/-ko/Tlinux_2_6_12
+/z8530.h/1.2/Mon Jan  4 16:06:35 1999/-ko/Tlinux_2_6_12
+D

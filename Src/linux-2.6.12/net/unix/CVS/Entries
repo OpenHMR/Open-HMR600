@@ -1,0 +1,6 @@
+/.cvsignore/1.11/Fri Nov 12 14:11:40 2004/-ko/Tlinux_2_6_12
+/Makefile/1.8/Mon Jun  2 10:48:45 2003/-ko/Tlinux_2_6_12
+/af_unix.c/1.96/Thu May 26 09:12:49 2005/-ko/Tlinux_2_6_12
+/garbage.c/1.22/Fri Apr  8 18:58:55 2005/-ko/Tlinux_2_6_12
+/sysctl_net_unix.c/1.13/Thu Jan 13 14:07:08 2005/-ko/Tlinux_2_6_12
+D

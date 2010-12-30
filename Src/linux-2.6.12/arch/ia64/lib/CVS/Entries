@@ -1,0 +1,27 @@
+/Makefile/1.26/Wed Jun  9 14:12:05 2004/-ko/Tlinux_2_6_12
+/bitop.c/1.3/Mon Feb  7 02:54:32 2005/-ko/Tlinux_2_6_12
+/carta_random.S/1.1/Fri Nov  1 02:47:19 2002/-ko/Tlinux_2_6_12
+/checksum.c/1.5/Thu Oct 30 00:52:31 2003/-ko/Tlinux_2_6_12
+/clear_page.S/1.6/Sun Aug 18 15:04:07 2002/-ko/Tlinux_2_6_12
+/clear_user.S/1.6/Sun Dec  2 11:34:37 2001/-ko/Tlinux_2_6_12
+/copy_page.S/1.8/Tue Sep  3 03:16:06 2002/-ko/Tlinux_2_6_12
+/copy_page_mck.S/1.1/Tue Sep  3 01:34:08 2002/-ko/Tlinux_2_6_12
+/copy_user.S/1.13/Thu Jun  5 18:23:58 2003/-ko/Tlinux_2_6_12
+/csum_partial_copy.c/1.7/Tue Jan 25 04:27:57 2005/-ko/Tlinux_2_6_12
+/dec_and_lock.c/1.2/Mon Nov 15 11:49:17 2004/-ko/Tlinux_2_6_12
+/do_csum.S/1.9/Thu Jun  5 18:23:58 2003/-ko/Tlinux_2_6_12
+/flush.S/1.5/Thu May 19 12:08:10 2005/-ko/Tlinux_2_6_12
+/idiv32.S/1.2/Sun Dec  2 11:34:37 2001/-ko/Tlinux_2_6_12
+/idiv64.S/1.4/Mon Jun 23 01:23:03 2003/-ko/Tlinux_2_6_12
+/io.c/1.11/Thu Jan 13 14:05:26 2005/-ko/Tlinux_2_6_12
+/ip_fast_csum.S/1.1/Tue Sep  3 03:16:06 2002/-ko/Tlinux_2_6_12
+/memcpy.S/1.7/Mon Feb  7 02:54:32 2005/-ko/Tlinux_2_6_12
+/memcpy_mck.S/1.6/Thu May 19 12:08:10 2005/-ko/Tlinux_2_6_12
+/memset.S/1.9/Thu May 19 12:08:10 2005/-ko/Tlinux_2_6_12
+/strlen.S/1.6/Sun Dec  2 11:34:37 2001/-ko/Tlinux_2_6_12
+/strlen_user.S/1.5/Sun Dec  2 11:34:37 2001/-ko/Tlinux_2_6_12
+/strncpy_from_user.S/1.5/Sun Dec  2 11:34:37 2001/-ko/Tlinux_2_6_12
+/strnlen_user.S/1.4/Sun Dec  2 11:34:37 2001/-ko/Tlinux_2_6_12
+/swiotlb.c/1.18/Fri Apr  8 18:57:54 2005/-ko/Tlinux_2_6_12
+/xor.S/1.2/Fri Aug 15 15:14:31 2003/-ko/Tlinux_2_6_12
+D

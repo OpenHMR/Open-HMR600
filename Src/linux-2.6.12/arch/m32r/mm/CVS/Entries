@@ -1,0 +1,12 @@
+/Makefile/1.1/Tue Oct 12 01:45:41 2004/-ko/Tlinux_2_6_12
+/cache.c/1.2/Fri Apr  8 18:57:55 2005/-ko/Tlinux_2_6_12
+/discontig.c/1.3/Fri Apr  8 18:57:55 2005/-ko/Tlinux_2_6_12
+/extable.c/1.1/Tue Oct 12 01:45:41 2004/-ko/Tlinux_2_6_12
+/fault-nommu.c/1.2/Fri Apr  8 18:57:55 2005/-ko/Tlinux_2_6_12
+/fault.c/1.4/Thu Jan 13 14:05:27 2005/-ko/Tlinux_2_6_12
+/init.c/1.4/Fri Mar 18 17:36:51 2005/-ko/Tlinux_2_6_12
+/ioremap-nommu.c/1.2/Tue Oct 12 14:36:33 2004/-ko/Tlinux_2_6_12
+/ioremap.c/1.2/Tue Oct 12 14:36:33 2004/-ko/Tlinux_2_6_12
+/mmu.S/1.1/Tue Oct 12 01:45:41 2004/-ko/Tlinux_2_6_12
+/page.S/1.1/Tue Oct 12 01:45:41 2004/-ko/Tlinux_2_6_12
+D

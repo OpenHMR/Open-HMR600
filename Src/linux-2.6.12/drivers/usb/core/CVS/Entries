@@ -1,0 +1,21 @@
+/.cvsignore/1.9/Fri Nov 12 14:11:35 2004/-ko/Tlinux_2_6_12
+/Kconfig/1.5/Sun Sep 19 12:30:15 2004/-ko/Tlinux_2_6_12
+/Makefile/1.13/Sun Jun  6 02:12:48 2004/-ko/Tlinux_2_6_12
+/buffer.c/1.9/Fri Apr  8 18:58:26 2005/-ko/Tlinux_2_6_12
+/config.c/1.15/Fri Apr 29 11:15:14 2005/-ko/Tlinux_2_6_12
+/devices.c/1.17/Fri Apr 29 11:15:14 2005/-ko/Tlinux_2_6_12
+/devio.c/1.38/Fri Apr 29 11:15:14 2005/-ko/Tlinux_2_6_12
+/file.c/1.14/Fri Apr 29 11:15:14 2005/-ko/Tlinux_2_6_12
+/hcd-pci.c/1.32/Fri Apr 29 11:15:14 2005/-ko/Tlinux_2_6_12
+/hcd.c/1.54/Fri Apr  8 18:58:26 2005/-ko/Tlinux_2_6_12
+/hcd.h/1.36/Fri Apr 29 11:15:14 2005/-ko/Tlinux_2_6_12
+/hub.c/1.56/Fri Apr 29 11:15:14 2005/-ko/Tlinux_2_6_12
+/hub.h/1.20/Fri Apr  8 18:58:26 2005/-ko/Tlinux_2_6_12
+/inode.c/1.27/Fri Apr 29 11:15:14 2005/-ko/Tlinux_2_6_12
+/message.c/1.46/Thu May 19 12:08:31 2005/-ko/Tlinux_2_6_12
+/otg_whitelist.h/1.2/Thu Jan 13 14:06:25 2005/-ko/Tlinux_2_6_12
+/sysfs.c/1.7/Tue Jun  7 13:45:37 2005/-ko/Tlinux_2_6_12
+/urb.c/1.26/Thu May 19 12:08:31 2005/-ko/Tlinux_2_6_12
+/usb.c/1.70/Thu May 19 12:08:31 2005/-ko/Tlinux_2_6_12
+/usb.h/1.12/Fri Apr 29 11:15:14 2005/-ko/Tlinux_2_6_12
+D

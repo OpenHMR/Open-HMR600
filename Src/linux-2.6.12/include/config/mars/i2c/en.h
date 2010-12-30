@@ -1,0 +1,1 @@
+#define CONFIG_MARS_I2C_EN 1

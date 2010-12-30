@@ -1,0 +1,14 @@
+/Kconfig/1.30/Thu May 19 12:08:15 2005/-ko/Tlinux_2_6_12
+/Kconfig.debug/1.1/Tue Aug 24 15:10:06 2004/-ko/Tlinux_2_6_12
+/Makefile/1.25/Fri Mar 18 17:37:01 2005/-ko/Tlinux_2_6_12
+D/boards////
+D/boot////
+D/cchips////
+D/configs////
+D/drivers////
+D/kernel////
+D/lib////
+D/mm////
+D/oprofile////
+D/ramdisk////
+D/tools////

@@ -1,0 +1,16 @@
+/.cvsignore/1.5/Fri Nov 12 14:11:32 2004/-ko/Tlinux_2_6_12
+/Makefile/1.9/Mon Oct 25 20:44:24 2004/-ko/Tlinux_2_6_12
+/ali14xx.c/1.9/Mon Dec 27 02:15:53 2004/-ko/Tlinux_2_6_12
+/buddha.c/1.3/Thu Feb  5 02:39:59 2004/-ko/Tlinux_2_6_12
+/dtc2278.c/1.9/Mon Dec 27 02:15:53 2004/-ko/Tlinux_2_6_12
+/falconide.c/1.3/Wed Jun  4 16:08:04 2003/-ko/Tlinux_2_6_12
+/gayle.c/1.4/Thu Feb  5 02:39:59 2004/-ko/Tlinux_2_6_12
+/hd.c/1.20/Fri Apr 29 11:15:06 2005/-ko/Tlinux_2_6_12
+/ht6560b.c/1.9/Mon Dec 27 02:15:53 2004/-ko/Tlinux_2_6_12
+/ide-cs.c/1.20/Sun Feb 13 20:16:22 2005/-ko/Tlinux_2_6_12
+/macide.c/1.4/Mon Apr 12 20:23:30 2004/-ko/Tlinux_2_6_12
+/q40ide.c/1.3/Thu Jun  5 18:24:03 2003/-ko/Tlinux_2_6_12
+/qd65xx.c/1.11/Mon Dec 27 02:15:53 2004/-ko/Tlinux_2_6_12
+/qd65xx.h/1.4/Sat Dec  4 18:16:03 2004/-ko/Tlinux_2_6_12
+/umc8672.c/1.10/Mon Dec 27 02:15:53 2004/-ko/Tlinux_2_6_12
+D

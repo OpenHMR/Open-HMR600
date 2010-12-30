@@ -1,0 +1,14 @@
+/.cvsignore/1.3/Fri Nov 12 14:11:38 2004/-ko/Tlinux_2_6_12
+/xfs_dquot.c/1.7/Fri Apr  8 18:58:37 2005/-ko/Tlinux_2_6_12
+/xfs_dquot.h/1.3/Sun Sep 19 12:30:19 2004/-ko/Tlinux_2_6_12
+/xfs_dquot_item.c/1.2/Thu Jun  5 14:43:36 2003/-ko/Tlinux_2_6_12
+/xfs_dquot_item.h/1.1/Thu Jun  5 11:24:18 2003/-ko/Tlinux_2_6_12
+/xfs_qm.c/1.10/Mon Dec 27 02:16:03 2004/-ko/Tlinux_2_6_12
+/xfs_qm.h/1.5/Mon Dec 27 02:16:03 2004/-ko/Tlinux_2_6_12
+/xfs_qm_bhv.c/1.3/Mon Dec 27 02:16:03 2004/-ko/Tlinux_2_6_12
+/xfs_qm_stats.c/1.3/Tue Aug 24 15:10:14 2004/-ko/Tlinux_2_6_12
+/xfs_qm_stats.h/1.1/Thu Jun  5 11:24:18 2003/-ko/Tlinux_2_6_12
+/xfs_qm_syscalls.c/1.8/Fri Apr  8 18:58:37 2005/-ko/Tlinux_2_6_12
+/xfs_quota_priv.h/1.2/Fri Apr  8 18:58:37 2005/-ko/Tlinux_2_6_12
+/xfs_trans_dquot.c/1.5/Fri Apr  8 18:58:37 2005/-ko/Tlinux_2_6_12
+D

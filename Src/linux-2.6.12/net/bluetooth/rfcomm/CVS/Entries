@@ -1,0 +1,8 @@
+/.cvsignore/1.2/Tue Dec 28 08:06:17 2004/-ko/Tlinux_2_6_12
+/Kconfig/1.4/Wed Jun  9 14:12:15 2004/-ko/Tlinux_2_6_12
+/Makefile/1.4/Mon Jun  2 10:48:45 2003/-ko/Tlinux_2_6_12
+/core.c/1.25/Fri Apr  8 18:58:49 2005/-ko/Tlinux_2_6_12
+/crc.c/1.1/Fri Nov  1 22:08:36 2002/-ko/Tlinux_2_6_12
+/sock.c/1.24/Thu May 19 12:08:49 2005/-ko/Tlinux_2_6_12
+/tty.c/1.17/Tue Jan 25 04:29:02 2005/-ko/Tlinux_2_6_12
+D

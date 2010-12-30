@@ -1,0 +1,8 @@
+/.cvsignore/1.8/Fri Nov 12 14:11:29 2004/-ko/Tlinux_2_6_12
+/Makefile/1.15/Wed Jan 28 22:16:39 2004/-ko/Tlinux_2_6_12
+/dbg_io.c/1.7/Wed Aug 20 16:26:20 2003/-ko/Tlinux_2_6_12
+/rtc_m41t81.c/1.9/Mon Jul 11 10:03:31 2005/-ko/Tlinux_2_6_12
+/rtc_xicor1241.c/1.10/Tue Feb 22 21:51:46 2005/-ko/Tlinux_2_6_12
+/setup.c/1.37/Mon Jul 11 10:03:31 2005/-ko/Tlinux_2_6_12
+/time.c/1.12/Tue Feb 22 21:51:46 2005/-ko/Tlinux_2_6_12
+D

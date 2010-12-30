@@ -1,0 +1,14 @@
+/.cvsignore/1.11/Fri Nov 12 14:11:40 2004/-ko/Tlinux_2_6_12
+/Makefile/1.8/Mon Jun  2 10:48:45 2003/-ko/Tlinux_2_6_12
+/af_x25.c/1.59/Fri Apr  8 18:58:55 2005/-ko/Tlinux_2_6_12
+/sysctl_net_x25.c/1.5/Thu Jan 13 14:07:08 2005/-ko/Tlinux_2_6_12
+/x25_dev.c/1.16/Thu Jan 13 14:07:08 2005/-ko/Tlinux_2_6_12
+/x25_facilities.c/1.11/Fri Mar 18 17:38:28 2005/-ko/Tlinux_2_6_12
+/x25_in.c/1.21/Fri Mar 18 17:38:28 2005/-ko/Tlinux_2_6_12
+/x25_link.c/1.19/Tue Jan 25 04:29:09 2005/-ko/Tlinux_2_6_12
+/x25_out.c/1.14/Fri Mar 18 17:38:28 2005/-ko/Tlinux_2_6_12
+/x25_proc.c/1.8/Fri Mar 18 17:38:28 2005/-ko/Tlinux_2_6_12
+/x25_route.c/1.12/Tue Jan 25 04:29:09 2005/-ko/Tlinux_2_6_12
+/x25_subr.c/1.15/Fri Mar 18 17:38:28 2005/-ko/Tlinux_2_6_12
+/x25_timer.c/1.14/Fri Mar 18 17:38:28 2005/-ko/Tlinux_2_6_12
+D

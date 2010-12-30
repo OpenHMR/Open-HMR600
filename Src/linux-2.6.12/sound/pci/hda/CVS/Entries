@@ -1,0 +1,13 @@
+/.cvsignore/1.1/Mon Jul 11 09:51:36 2005/-ko/Tlinux_2_6_12
+/Makefile/1.2/Fri Apr  8 18:58:59 2005/-ko/Tlinux_2_6_12
+/hda_codec.c/1.2/Fri Apr  8 18:58:59 2005/-ko/Tlinux_2_6_12
+/hda_codec.h/1.1/Fri Mar 18 17:38:35 2005/-ko/Tlinux_2_6_12
+/hda_generic.c/1.2/Fri Apr  8 18:58:59 2005/-ko/Tlinux_2_6_12
+/hda_intel.c/1.2/Thu May 19 12:08:54 2005/-ko/Tlinux_2_6_12
+/hda_local.h/1.1/Fri Mar 18 17:38:35 2005/-ko/Tlinux_2_6_12
+/hda_patch.h/1.2/Fri Apr  8 18:58:59 2005/-ko/Tlinux_2_6_12
+/hda_proc.c/1.1/Fri Mar 18 17:38:35 2005/-ko/Tlinux_2_6_12
+/patch_analog.c/1.1/Fri Apr  8 18:58:59 2005/-ko/Tlinux_2_6_12
+/patch_cmedia.c/1.2/Fri Apr  8 18:58:59 2005/-ko/Tlinux_2_6_12
+/patch_realtek.c/1.2/Fri Apr  8 18:58:59 2005/-ko/Tlinux_2_6_12
+D

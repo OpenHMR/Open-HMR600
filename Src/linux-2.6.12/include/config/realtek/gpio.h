@@ -1,0 +1,1 @@
+#define CONFIG_REALTEK_GPIO 1

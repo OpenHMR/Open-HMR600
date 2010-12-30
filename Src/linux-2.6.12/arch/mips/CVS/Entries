@@ -1,0 +1,37 @@
+/.cvsignore/1.2/Sat Nov  2 20:01:54 2002/-ko/Tlinux_2_6_12
+/Kconfig/1.149/Mon Jul 11 10:50:11 2005/-ko/Tlinux_2_6_12
+/Kconfig.debug/1.1/Tue Aug 24 15:10:05 2004/-ko/Tlinux_2_6_12
+/Makefile/1.201/Mon Jul 11 10:50:11 2005/-ko/Tlinux_2_6_12
+/defconfig/1.295/Mon Jul 11 10:50:12 2005/-ko/Tlinux_2_6_12
+D/arc////
+D/au1000////
+D/boot////
+D/cobalt////
+D/configs////
+D/ddb5xxx////
+D/dec////
+D/galileo-boards////
+D/gt64120////
+D/ite-boards////
+D/jazz////
+D/jmr3927////
+D/kernel////
+D/lasat////
+D/lib////
+D/lib-32////
+D/lib-64////
+D/math-emu////
+D/mips-boards////
+D/mm////
+D/momentum////
+D/oprofile////
+D/pci////
+D/pmc-sierra////
+D/qemu////
+D/sgi-ip22////
+D/sgi-ip27////
+D/sgi-ip32////
+D/sibyte////
+D/sni////
+D/tx4927////
+D/vr41xx////

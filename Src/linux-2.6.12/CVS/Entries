@@ -1,0 +1,23 @@
+/.cvsignore/1.16/Wed Apr 28 13:54:52 2004/-ko/Tlinux_2_6_12
+/COPYING/1.6/Sun Aug 18 08:59:39 2002/-ko/Tlinux_2_6_12
+/CREDITS/1.145/Sat Jun 18 14:42:38 2005/-ko/Tlinux_2_6_12
+/MAINTAINERS/1.182/Sat Jun 18 14:42:38 2005/-ko/Tlinux_2_6_12
+/Makefile/1.254/Sat Jun 18 14:42:38 2005/-ko/Tlinux_2_6_12
+/README/1.26/Fri Aug  6 00:33:20 2004/-ko/Tlinux_2_6_12
+/REPORTING-BUGS/1.6/Fri Mar 18 17:36:42 2005/-ko/Tlinux_2_6_12
+D/Documentation////
+D/arch////
+D/crypto////
+D/drivers////
+D/fs////
+D/include////
+D/init////
+D/ipc////
+D/kernel////
+D/lib////
+D/mm////
+D/net////
+D/scripts////
+D/security////
+D/sound////
+D/usr////

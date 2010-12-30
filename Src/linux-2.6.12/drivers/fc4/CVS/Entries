@@ -1,0 +1,14 @@
+/.cvsignore/1.8/Fri Nov 12 14:11:31 2004/-ko/Tlinux_2_6_12
+/Kconfig/1.3/Tue Sep 30 14:27:21 2003/-ko/Tlinux_2_6_12
+/Makefile/1.10/Wed Jun  4 14:05:44 2003/-ko/Tlinux_2_6_12
+/fc-al.h/1.1/Sun Jun 13 16:32:19 1999/-ko/Tlinux_2_6_12
+/fc.c/1.22/Mon Jun 28 21:04:13 2004/-ko/Tlinux_2_6_12
+/fc.h/1.2/Sun Jun 13 16:32:20 1999/-ko/Tlinux_2_6_12
+/fc_syms.c/1.5/Thu Jun  5 10:06:38 2003/-ko/Tlinux_2_6_12
+/fcp.h/1.1/Tue Mar 17 22:10:10 1998/-ko/Tlinux_2_6_12
+/fcp_impl.h/1.5/Tue Jul 29 14:26:25 2003/-ko/Tlinux_2_6_12
+/soc.c/1.20/Fri Apr  8 18:58:12 2005/-ko/Tlinux_2_6_12
+/soc.h/1.8/Fri Apr  8 18:58:12 2005/-ko/Tlinux_2_6_12
+/socal.c/1.17/Sat Dec  4 18:16:03 2004/-ko/Tlinux_2_6_12
+/socal.h/1.5/Sat Dec  4 18:16:03 2004/-ko/Tlinux_2_6_12
+D

@@ -1,0 +1,11 @@
+/.cvsignore/1.9/Mon Jul 11 09:51:37 2005/-ko/Tlinux_2_6_12
+/Makefile/1.14/Mon Nov 15 11:49:53 2004/-ko/Tlinux_2_6_12
+/ac97_codec.c/1.28/Fri Apr  8 18:58:58 2005/-ko/Tlinux_2_6_12
+/ac97_id.h/1.8/Mon Nov 15 11:49:53 2004/-ko/Tlinux_2_6_12
+/ac97_local.h/1.8/Fri Mar 18 17:38:34 2005/-ko/Tlinux_2_6_12
+/ac97_patch.c/1.21/Fri Apr  8 18:58:58 2005/-ko/Tlinux_2_6_12
+/ac97_patch.h/1.13/Fri Mar 18 17:38:34 2005/-ko/Tlinux_2_6_12
+/ac97_pcm.c/1.7/Fri Mar 18 17:38:34 2005/-ko/Tlinux_2_6_12
+/ac97_proc.c/1.8/Thu Jan 13 14:07:16 2005/-ko/Tlinux_2_6_12
+/ak4531_codec.c/1.7/Thu Jan 13 14:07:16 2005/-ko/Tlinux_2_6_12
+D

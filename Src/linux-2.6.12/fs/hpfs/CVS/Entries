@@ -1,0 +1,18 @@
+/.cvsignore/1.9/Fri Nov 12 14:11:37 2004/-ko/Tlinux_2_6_12
+/Makefile/1.7/Mon Jun  2 10:48:43 2003/-ko/Tlinux_2_6_12
+/alloc.c/1.6/Fri Mar 18 17:38:01 2005/-ko/Tlinux_2_6_12
+/anode.c/1.10/Sat Jun 26 15:15:21 2004/-ko/Tlinux_2_6_12
+/buffer.c/1.16/Tue Jul 20 20:21:24 2004/-ko/Tlinux_2_6_12
+/dentry.c/1.5/Fri Mar 18 17:38:01 2005/-ko/Tlinux_2_6_12
+/dir.c/1.19/Mon Apr 12 20:23:36 2004/-ko/Tlinux_2_6_12
+/dnode.c/1.10/Fri Mar 18 17:38:01 2005/-ko/Tlinux_2_6_12
+/ea.c/1.9/Sat Jun 26 15:15:21 2004/-ko/Tlinux_2_6_12
+/file.c/1.30/Thu Jan 13 14:06:35 2005/-ko/Tlinux_2_6_12
+/hpfs.h/1.6/Fri Apr  8 18:58:34 2005/-ko/Tlinux_2_6_12
+/hpfs_fn.h/1.32/Fri Apr  8 18:58:34 2005/-ko/Tlinux_2_6_12
+/inode.c/1.31/Fri Mar 18 17:38:01 2005/-ko/Tlinux_2_6_12
+/map.c/1.6/Sat Jun 26 15:15:21 2004/-ko/Tlinux_2_6_12
+/name.c/1.5/Fri Mar 18 17:38:01 2005/-ko/Tlinux_2_6_12
+/namei.c/1.29/Mon Apr 12 20:23:36 2004/-ko/Tlinux_2_6_12
+/super.c/1.30/Fri Mar 18 17:38:01 2005/-ko/Tlinux_2_6_12
+D

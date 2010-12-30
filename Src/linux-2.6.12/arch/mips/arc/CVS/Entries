@@ -1,0 +1,16 @@
+/.cvsignore/1.8/Fri Nov 12 14:11:28 2004/-ko/Tlinux_2_6_12
+/Makefile/1.11/Mon Mar  7 15:40:34 2005/-ko/Tlinux_2_6_12
+/arc_con.c/1.10/Fri Jun  6 00:15:18 2003/-ko/Tlinux_2_6_12
+/cmdline.c/1.10/Wed Jan 28 22:16:39 2004/-ko/Tlinux_2_6_12
+/console.c/1.12/Tue Jul  2 13:13:54 2002/-ko/Tlinux_2_6_12
+/env.c/1.5/Wed Dec 26 23:03:06 2001/-ko/Tlinux_2_6_12
+/file.c/1.4/Wed Dec 26 23:03:06 2001/-ko/Tlinux_2_6_12
+/identify.c/1.14/Fri Jul  8 07:36:51 2005/-ko/Tlinux_2_6_12
+/init.c/1.15/Sat Nov 15 02:29:43 2003/-ko/Tlinux_2_6_12
+/memory.c/1.27/Mon Nov  3 16:48:28 2003/-ko/Tlinux_2_6_12
+/misc.c/1.12/Fri Oct 15 00:25:55 2004/-ko/Tlinux_2_6_12
+/promlib.c/1.2/Sun Sep 29 01:43:16 2002/-ko/Tlinux_2_6_12
+/salone.c/1.4/Thu Aug  1 22:25:22 2002/-ko/Tlinux_2_6_12
+/time.c/1.4/Wed Dec 26 23:03:06 2001/-ko/Tlinux_2_6_12
+/tree.c/1.4/Wed Dec 26 23:03:06 2001/-ko/Tlinux_2_6_12
+D

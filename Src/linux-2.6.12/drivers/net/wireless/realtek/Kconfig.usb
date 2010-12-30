@@ -1,0 +1,39 @@
+menu "Realtek USB 802.11x wireless LAN devices"	
+	depends on NET_RADIO && INET && USB	
+	  
+config REALTEK_USB_RTL8187
+	tristate "Realtek RTL8187 chipset 802.11g support (USB)"
+	depends on NET_RADIO && INET && USB
+	select REALTEK_IEEE80211
+	---help---
+	  Say Y if you have a USB 802.11g device with Realtek RTL8187
+	  chipset.
+
+config REALTEK_USB_RTL8192
+       	tristate "Realtek RTL8192 chipset 802.11n support (USB)"
+       	depends on NET_RADIO && INET && USB
+       	---help---
+         Say Y if you have a USB 802.11n device with Realtek RTL8192
+         chipset.
+
+config REALTEK_USB_RTL8191SU
+       	tristate "Realtek RTL8191SU chipset 802.11n support (USB)"
+       	depends on NET_RADIO && INET && USB
+       	---help---
+         Say Y if you have a USB 802.11n device with Realtek RTL8191SU
+         chipset.
+                  
+config RTL8191SU_DRIVER_VERSION_2
+	bool "Use new version RTL8192SU driver (Experimental)"
+	depends on REALTEK_USB_RTL8191SU	
+	---help---
+	  Say Y if you want to use a RTL8712/8188/8191/8192SU device with Realtek RTL8187
+	  chipset.
+	  
+config REALTEK_USB_RTL8192DU
+	bool "Realtek RTL8192D chipset dual band 802.11n support (USB)"	
+	---help---
+	  Say Y if you have a USB 802.11n device with RTL8192DU
+	  chipset.	  
+
+endmenu

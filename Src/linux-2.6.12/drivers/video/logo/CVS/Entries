@@ -1,0 +1,17 @@
+/.cvsignore/1.5/Fri Nov 12 14:11:36 2004/-ko/Tlinux_2_6_12
+/Kconfig/1.5/Thu May 19 12:08:33 2005/-ko/Tlinux_2_6_12
+/Makefile/1.6/Fri Mar 18 17:37:57 2005/-ko/Tlinux_2_6_12
+/clut_vga16.ppm/1.1/Thu Jun  5 10:06:41 2003/-ko/Tlinux_2_6_12
+/logo.c/1.8/Fri Mar 18 17:37:57 2005/-ko/Tlinux_2_6_12
+/logo_dec_clut224.ppm/1.1/Thu Jun  5 10:06:41 2003/-ko/Tlinux_2_6_12
+/logo_linux_clut224.ppm/1.1/Thu Jun  5 10:06:41 2003/-ko/Tlinux_2_6_12
+/logo_linux_mono.pbm/1.1/Thu Jun  5 10:06:41 2003/-ko/Tlinux_2_6_12
+/logo_linux_vga16.ppm/1.1/Thu Jun  5 10:06:41 2003/-ko/Tlinux_2_6_12
+/logo_mac_clut224.ppm/1.1/Thu Jun  5 10:06:41 2003/-ko/Tlinux_2_6_12
+/logo_parisc_clut224.ppm/1.1/Thu Jun  5 10:06:41 2003/-ko/Tlinux_2_6_12
+/logo_sgi_clut224.ppm/1.1/Thu Jun  5 10:06:41 2003/-ko/Tlinux_2_6_12
+/logo_sun_clut224.ppm/1.1/Thu Jun  5 10:06:41 2003/-ko/Tlinux_2_6_12
+/logo_superh_clut224.ppm/1.1/Thu Jun  5 10:06:41 2003/-ko/Tlinux_2_6_12
+/logo_superh_mono.pbm/1.1/Thu Jun  5 10:06:41 2003/-ko/Tlinux_2_6_12
+/logo_superh_vga16.ppm/1.1/Thu Jun  5 10:06:41 2003/-ko/Tlinux_2_6_12
+D

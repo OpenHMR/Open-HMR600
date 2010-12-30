@@ -1,0 +1,85 @@
+# drivers/Kconfig
+
+menu "Device Drivers"
+
+source "drivers/base/Kconfig"
+
+source "drivers/mtd/Kconfig"
+
+source "drivers/parport/Kconfig"
+
+source "drivers/pnp/Kconfig"
+
+source "drivers/block/Kconfig"
+
+source "drivers/ide/Kconfig"
+
+source "drivers/scsi/Kconfig"
+
+source "drivers/cdrom/Kconfig"
+
+source "drivers/md/Kconfig"
+
+source "drivers/message/fusion/Kconfig"
+
+source "drivers/ieee1394/Kconfig"
+
+#config IEEE1394_VENUS
+#	tristate "IEEE1394 driver for Venus board"
+#	depends on REALTEK_VENUS
+#	default y
+#	help
+#	  If you want to enable 1394 on Venus board, say Y.
+
+source "drivers/message/i2o/Kconfig"
+
+source "drivers/macintosh/Kconfig"
+
+source "net/Kconfig"
+
+source "drivers/isdn/Kconfig"
+
+source "drivers/telephony/Kconfig"
+
+# input before char - char/joystick depends on it. As does USB.
+
+source "drivers/input/Kconfig"
+
+source "drivers/char/Kconfig"
+
+source "drivers/i2c/Kconfig"
+
+source "drivers/w1/Kconfig"
+
+source "drivers/misc/Kconfig"
+
+source "drivers/media/Kconfig"
+
+source "drivers/video/Kconfig"
+
+source "sound/Kconfig"
+
+source "drivers/usb/Kconfig"
+
+source "drivers/mmc/Kconfig"
+
+source "drivers/infiniband/Kconfig"
+
+source "drivers/cec/Kconfig"
+
+source "drivers/ci/Kconfig"
+
+source "drivers/smartcard/Kconfig"
+
+config THIRD_PARTY_DRIVER
+	bool "3 party drivers that don't reside in Linux kernel source tree"
+	help
+	  3 party drivers that don't reside in Linux kernel source tree.
+
+config THIRD_PARTY_DRIVER_LIST
+	string "The list of 3 party drivers" if THIRD_PARTY_DRIVER
+	depends on THIRD_PARTY_DRIVER
+	help
+	  We can add 3 party drivers to the list.
+
+endmenu

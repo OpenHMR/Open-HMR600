@@ -1,0 +1,1 @@
+#define CONFIG_CIFS_USE_MD_COPY 1

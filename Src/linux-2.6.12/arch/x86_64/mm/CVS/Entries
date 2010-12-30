@@ -1,0 +1,10 @@
+/Makefile/1.11/Thu Jan 13 14:05:44 2005/-ko/Tlinux_2_6_12
+/extable.c/1.8/Fri Mar 18 17:37:08 2005/-ko/Tlinux_2_6_12
+/fault.c/1.29/Thu May 26 09:12:40 2005/-ko/Tlinux_2_6_12
+/init.c/1.32/Fri Apr 29 11:15:05 2005/-ko/Tlinux_2_6_12
+/ioremap.c/1.21/Thu May 26 09:12:40 2005/-ko/Tlinux_2_6_12
+/k8topology.c/1.14/Mon Feb  7 02:54:39 2005/-ko/Tlinux_2_6_12
+/numa.c/1.17/Mon Feb  7 02:54:39 2005/-ko/Tlinux_2_6_12
+/pageattr.c/1.12/Mon Feb  7 02:54:39 2005/-ko/Tlinux_2_6_12
+/srat.c/1.4/Wed Mar  2 19:58:00 2005/-ko/Tlinux_2_6_12
+D

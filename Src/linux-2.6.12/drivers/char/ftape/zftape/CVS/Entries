@@ -1,0 +1,20 @@
+/.cvsignore/1.9/Fri Nov 12 14:11:31 2004/-ko/Tlinux_2_6_12
+/Makefile/1.5/Wed Jun  4 14:05:43 2003/-ko/Tlinux_2_6_12
+/zftape-buffers.c/1.8/Thu Jan 13 14:05:57 2005/-ko/Tlinux_2_6_12
+/zftape-buffers.h/1.2/Thu Jan 13 14:05:57 2005/-ko/Tlinux_2_6_12
+/zftape-ctl.c/1.9/Fri Aug  6 00:33:25 2004/-ko/Tlinux_2_6_12
+/zftape-ctl.h/1.3/Fri Aug  6 00:33:25 2004/-ko/Tlinux_2_6_12
+/zftape-eof.c/1.4/Mon May 10 14:25:32 2004/-ko/Tlinux_2_6_12
+/zftape-eof.h/1.1/Sat Dec  6 23:53:00 1997/-ko/Tlinux_2_6_12
+/zftape-init.c/1.32/Mon Feb  7 02:54:45 2005/-ko/Tlinux_2_6_12
+/zftape-init.h/1.4/Thu Jan 13 14:05:57 2005/-ko/Tlinux_2_6_12
+/zftape-read.c/1.5/Fri Aug  6 00:33:25 2004/-ko/Tlinux_2_6_12
+/zftape-read.h/1.2/Fri Aug  6 00:33:25 2004/-ko/Tlinux_2_6_12
+/zftape-rw.c/1.5/Thu Jan 13 14:05:57 2005/-ko/Tlinux_2_6_12
+/zftape-rw.h/1.3/Thu Jan 13 14:05:57 2005/-ko/Tlinux_2_6_12
+/zftape-vtbl.c/1.7/Thu Jan 13 14:05:57 2005/-ko/Tlinux_2_6_12
+/zftape-vtbl.h/1.6/Thu Jan 13 14:05:57 2005/-ko/Tlinux_2_6_12
+/zftape-write.c/1.6/Fri Aug  6 00:33:25 2004/-ko/Tlinux_2_6_12
+/zftape-write.h/1.2/Fri Aug  6 00:33:25 2004/-ko/Tlinux_2_6_12
+/zftape_syms.c/1.7/Thu Jan 13 14:05:57 2005/-ko/Tlinux_2_6_12
+D

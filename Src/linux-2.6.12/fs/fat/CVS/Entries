@@ -1,0 +1,9 @@
+/.cvsignore/1.9/Fri Nov 12 14:11:37 2004/-ko/Tlinux_2_6_12
+/Makefile/1.12/Fri Mar 18 17:38:01 2005/-ko/Tlinux_2_6_12
+/cache.c/1.29/Fri Mar 18 17:38:01 2005/-ko/Tlinux_2_6_12
+/dir.c/1.42/Fri Mar 18 17:38:01 2005/-ko/Tlinux_2_6_12
+/fatent.c/1.1/Fri Mar 18 17:38:01 2005/-ko/Tlinux_2_6_12
+/file.c/1.45/Fri Mar 18 17:38:01 2005/-ko/Tlinux_2_6_12
+/inode.c/1.93/Fri Apr  8 18:58:34 2005/-ko/Tlinux_2_6_12
+/misc.c/1.30/Fri Mar 18 17:38:01 2005/-ko/Tlinux_2_6_12
+D

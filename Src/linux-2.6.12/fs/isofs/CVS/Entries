@@ -1,0 +1,14 @@
+/.cvsignore/1.10/Fri Nov 12 14:11:37 2004/-ko/Tlinux_2_6_12
+/Makefile/1.11/Sat Jun 26 15:15:21 2004/-ko/Tlinux_2_6_12
+/compress.c/1.15/Thu May 19 12:08:36 2005/-ko/Tlinux_2_6_12
+/dir.c/1.31/Thu May 19 12:08:36 2005/-ko/Tlinux_2_6_12
+/export.c/1.2/Thu May 19 12:08:36 2005/-ko/Tlinux_2_6_12
+/inode.c/1.64/Thu May 19 12:08:36 2005/-ko/Tlinux_2_6_12
+/isofs.h/1.1/Thu May 19 12:08:36 2005/-ko/Tlinux_2_6_12
+/joliet.c/1.10/Thu May 19 12:08:36 2005/-ko/Tlinux_2_6_12
+/namei.c/1.24/Thu May 19 12:08:36 2005/-ko/Tlinux_2_6_12
+/rock.c/1.36/Thu May 19 12:08:36 2005/-ko/Tlinux_2_6_12
+/rock.h/1.2/Tue Nov  6 07:56:10 2001/-ko/Tlinux_2_6_12
+/util.c/1.9/Thu May 19 12:08:36 2005/-ko/Tlinux_2_6_12
+/zisofs.h/1.2/Mon Jul 22 07:25:15 2002/-ko/Tlinux_2_6_12
+D

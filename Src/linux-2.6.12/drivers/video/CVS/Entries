@@ -1,0 +1,118 @@
+/.cvsignore/1.10/Mon Jul 11 09:42:21 2005/-ko/Tlinux_2_6_12
+/68328fb.c/1.7/Tue Oct 12 01:45:47 2004/-ko/Tlinux_2_6_12
+/Kconfig/1.39/Mon Jun 13 19:50:42 2005/-ko/Tlinux_2_6_12
+/Makefile/1.91/Thu May 19 12:08:32 2005/-ko/Tlinux_2_6_12
+/S3triofb.c/1.18/Thu Jun  5 14:43:34 2003/-ko/Tlinux_2_6_12
+/acornfb.c/1.42/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/acornfb.h/1.8/Mon Apr 12 20:23:35 2004/-ko/Tlinux_2_6_12
+/amba-clcd.c/1.6/Thu May 19 12:08:32 2005/-ko/Tlinux_2_6_12
+/amifb.c/1.39/Fri Mar 18 17:37:54 2005/-ko/Tlinux_2_6_12
+/asiliantfb.c/1.8/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/atafb.c/1.26/Sun Jun  6 02:12:49 2004/-ko/Tlinux_2_6_12
+/au1100fb.c/1.7/Thu Apr 14 11:31:26 2005/-ko/Tlinux_2_6_12
+/au1100fb.h/1.2/Mon Apr  4 01:06:20 2005/-ko/Tlinux_2_6_12
+/bt431.h/1.3/Sun Jul 10 10:29:02 2005/-ko/Tlinux_2_6_12
+/bt455.h/1.2/Tue Sep 23 12:11:09 2003/-ko/Tlinux_2_6_12
+/bw2.c/1.11/Sat Dec  4 18:16:07 2004/-ko/Tlinux_2_6_12
+/c2p.c/1.1/Thu Jun  5 10:06:40 2003/-ko/Tlinux_2_6_12
+/c2p.h/1.1/Thu Jun  5 10:06:40 2003/-ko/Tlinux_2_6_12
+/cfbcopyarea.c/1.11/Fri Mar 18 17:37:54 2005/-ko/Tlinux_2_6_12
+/cfbfillrect.c/1.9/Fri Mar 18 17:37:54 2005/-ko/Tlinux_2_6_12
+/cfbimgblt.c/1.14/Tue Oct 12 01:45:47 2004/-ko/Tlinux_2_6_12
+/cg14.c/1.13/Sun Feb 13 20:16:27 2005/-ko/Tlinux_2_6_12
+/cg3.c/1.12/Mon Feb 28 15:45:16 2005/-ko/Tlinux_2_6_12
+/cg6.c/1.11/Thu Jan 13 14:06:29 2005/-ko/Tlinux_2_6_12
+/chipsfb.c/1.31/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/cirrusfb.c/1.16/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/clps711xfb.c/1.13/Tue Oct 12 01:45:47 2004/-ko/Tlinux_2_6_12
+/controlfb.c/1.38/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/controlfb.h/1.4/Sat Sep 22 12:49:34 2001/-ko/Tlinux_2_6_12
+/cyber2000fb.c/1.51/Thu May 19 12:08:32 2005/-ko/Tlinux_2_6_12
+/cyber2000fb.h/1.16/Mon Nov 15 11:49:34 2004/-ko/Tlinux_2_6_12
+/cyberfb.c/1.25/Sun Jun  6 02:12:49 2004/-ko/Tlinux_2_6_12
+/cyberfb.h/1.4/Sat Sep 22 12:49:34 2001/-ko/Tlinux_2_6_12
+/dnfb.c/1.28/Tue Oct 12 01:45:47 2004/-ko/Tlinux_2_6_12
+/edid.h/1.1/Thu Jun  5 14:43:34 2003/-ko/Tlinux_2_6_12
+/epson1355fb.c/1.12/Mon Nov 15 11:49:34 2004/-ko/Tlinux_2_6_12
+/epson1356fb.c/1.6/Wed Jul  6 12:08:14 2005/-ko/Tlinux_2_6_12
+/epson1356fb.h/1.2/Thu Aug 15 09:27:24 2002/-ko/Tlinux_2_6_12
+/fbcmap.c/1.17/Thu May 19 12:08:32 2005/-ko/Tlinux_2_6_12
+/fbmem.c/1.102/Thu May 19 12:08:32 2005/-ko/Tlinux_2_6_12
+/fbmon.c/1.17/Thu May 19 12:08:32 2005/-ko/Tlinux_2_6_12
+/fbsysfs.c/1.5/Sat Jun 18 14:42:49 2005/-ko/Tlinux_2_6_12
+/ffb.c/1.12/Mon Nov 15 11:49:34 2004/-ko/Tlinux_2_6_12
+/fm2fb.c/1.25/Sat Dec  4 18:16:07 2004/-ko/Tlinux_2_6_12
+/g364fb.c/1.22/Tue Oct 12 01:45:47 2004/-ko/Tlinux_2_6_12
+/gbefb.c/1.15/Sun Jul 10 10:29:02 2005/-ko/Tlinux_2_6_12
+/hgafb.c/1.28/Fri Mar 18 17:37:54 2005/-ko/Tlinux_2_6_12
+/hitfb.c/1.22/Fri Mar 18 17:37:54 2005/-ko/Tlinux_2_6_12
+/hpfb.c/1.24/Mon Nov 15 11:49:34 2004/-ko/Tlinux_2_6_12
+/igafb.c/1.28/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/imsttfb.c/1.41/Thu May 19 12:08:32 2005/-ko/Tlinux_2_6_12
+/imxfb.c/1.1/Thu May 19 12:08:32 2005/-ko/Tlinux_2_6_12
+/imxfb.h/1.1/Thu May 19 12:08:32 2005/-ko/Tlinux_2_6_12
+/leo.c/1.10/Sat Dec  4 18:16:07 2004/-ko/Tlinux_2_6_12
+/macfb.c/1.26/Tue Oct 12 01:45:47 2004/-ko/Tlinux_2_6_12
+/macmodes.c/1.13/Sat Jun 18 14:42:49 2005/-ko/Tlinux_2_6_12
+/macmodes.h/1.3/Sun Jun  1 12:07:43 2003/-ko/Tlinux_2_6_12
+/maxinefb.c/1.19/Sun Jul 10 10:29:02 2005/-ko/Tlinux_2_6_12
+/modedb.c/1.20/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/neofb.c/1.26/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/offb.c/1.38/Fri Mar 18 17:37:54 2005/-ko/Tlinux_2_6_12
+/p9100.c/1.9/Sat Dec  4 18:16:07 2004/-ko/Tlinux_2_6_12
+/platinumfb.c/1.28/Sat Dec  4 18:16:07 2004/-ko/Tlinux_2_6_12
+/platinumfb.h/1.3/Fri Feb 18 00:24:45 2000/-ko/Tlinux_2_6_12
+/pm2fb.c/1.34/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/pm3fb.c/1.10/Fri Mar 18 17:37:54 2005/-ko/Tlinux_2_6_12
+/pmag-aa-fb.c/1.5/Sun Jul 10 10:29:02 2005/-ko/Tlinux_2_6_12
+/pmag-ba-fb.c/1.22/Mon Jul 11 16:17:06 2005/-ko/Tlinux_2_6_12
+/pmagb-b-fb.c/1.20/Mon Jul 11 16:17:49 2005/-ko/Tlinux_2_6_12
+/pvr2fb.c/1.19/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/pxafb.c/1.14/Fri Apr 29 11:15:16 2005/-ko/Tlinux_2_6_12
+/pxafb.h/1.1/Sun Jun  6 02:12:49 2004/-ko/Tlinux_2_6_12
+/q40fb.c/1.22/Tue Oct 12 01:45:47 2004/-ko/Tlinux_2_6_12
+/radeonfb.c/1.34/Thu May 19 12:08:32 2005/-ko/Tlinux_2_6_12
+/retz3fb.c/1.30/Sun Jun  6 02:12:49 2004/-ko/Tlinux_2_6_12
+/retz3fb.h/1.2/Mon Jan  4 16:08:00 1999/-ko/Tlinux_2_6_12
+/s1d13xxxfb.c/1.1/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/sa1100fb.c/1.45/Fri Apr 29 11:15:16 2005/-ko/Tlinux_2_6_12
+/sa1100fb.h/1.8/Mon Apr 12 20:23:35 2004/-ko/Tlinux_2_6_12
+/sbuslib.c/1.8/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/sbuslib.h/1.2/Thu Jun  5 00:04:36 2003/-ko/Tlinux_2_6_12
+/sgivwfb.c/1.22/Mon Oct 25 20:44:39 2004/-ko/Tlinux_2_6_12
+/skeletonfb.c/1.27/Fri Mar 18 17:37:54 2005/-ko/Tlinux_2_6_12
+/softcursor.c/1.10/Sat Dec  4 18:16:07 2004/-ko/Tlinux_2_6_12
+/sstfb.c/1.27/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/sticore.h/1.3/Tue Jun  3 17:04:14 2003/-ko/Tlinux_2_6_12
+/stifb.c/1.19/Fri Mar 18 17:37:54 2005/-ko/Tlinux_2_6_12
+/sun3fb.c/1.16/Fri Mar 18 17:37:54 2005/-ko/Tlinux_2_6_12
+/tcx.c/1.11/Thu May 19 12:08:33 2005/-ko/Tlinux_2_6_12
+/tdfxfb.c/1.47/Thu May 19 12:08:33 2005/-ko/Tlinux_2_6_12
+/tgafb.c/1.40/Thu May 19 12:08:33 2005/-ko/Tlinux_2_6_12
+/tridentfb.c/1.23/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/tx3912fb.c/1.16/Tue Oct 12 01:45:47 2004/-ko/Tlinux_2_6_12
+/valkyriefb.c/1.27/Sat Dec  4 18:16:07 2004/-ko/Tlinux_2_6_12
+/valkyriefb.h/1.4/Tue Oct 29 20:56:01 2002/-ko/Tlinux_2_6_12
+/vesafb.c/1.42/Thu May 19 12:08:33 2005/-ko/Tlinux_2_6_12
+/vfb.c/1.29/Fri Mar 18 17:37:54 2005/-ko/Tlinux_2_6_12
+/vga16fb.c/1.32/Fri Apr  8 18:58:29 2005/-ko/Tlinux_2_6_12
+/vgastate.c/1.5/Tue Oct 12 01:45:47 2004/-ko/Tlinux_2_6_12
+/virgefb.c/1.26/Sun Jun  6 02:12:50 2004/-ko/Tlinux_2_6_12
+/virgefb.h/1.2/Tue Oct 29 20:56:01 2002/-ko/Tlinux_2_6_12
+/w100fb.c/1.4/Fri Apr 29 11:15:16 2005/-ko/Tlinux_2_6_12
+/w100fb.h/1.1/Tue Jan 25 04:28:46 2005/-ko/Tlinux_2_6_12
+D/aty////
+D/backlight////
+D/console////
+D/geode////
+D/i810////
+D/intelfb////
+D/kyro////
+D/logo////
+D/matrox////
+D/nvidia////
+D/riva////
+D/savage////
+D/sis////
+/smivgxfb.c/1.1/Thu Sep 15 08:01:32 2005/-ko/Tlinux_2_6_12
+/smivgxfb.h/1.1/Thu Sep 15 08:01:32 2005/-ko/Tlinux_2_6_12

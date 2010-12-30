@@ -1,0 +1,5 @@
+config DVB_USB_RTL2832U
+	tristate "Realtek RTL2832U DVB-T USB2.0 support"
+	depends on DVB_USB
+	help
+	  Realtek RTL2832U DVB-T driver.

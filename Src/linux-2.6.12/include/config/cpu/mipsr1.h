@@ -1,0 +1,1 @@
+#define CONFIG_CPU_MIPSR1 1

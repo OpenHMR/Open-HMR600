@@ -1,0 +1,12 @@
+/Makefile/1.9/Wed Jun  4 14:05:39 2003/-ko/Tlinux_2_6_12
+/ataints.c/1.17/Sun Jun  6 02:12:37 2004/-ko/Tlinux_2_6_12
+/atari_ksyms.c/1.6/Tue Jul 29 14:26:22 2003/-ko/Tlinux_2_6_12
+/atasound.c/1.6/Sun Jun  6 02:12:37 2004/-ko/Tlinux_2_6_12
+/atasound.h/1.1.1.1/Sun Jun  1 03:16:35 1997/-ko/Tlinux_2_6_12
+/config.c/1.19/Sun Jun  6 02:12:37 2004/-ko/Tlinux_2_6_12
+/debug.c/1.8/Sun Jun  6 02:12:37 2004/-ko/Tlinux_2_6_12
+/hades-pci.c/1.9/Mon Nov 15 11:49:17 2004/-ko/Tlinux_2_6_12
+/stdma.c/1.9/Fri Apr  8 18:57:55 2005/-ko/Tlinux_2_6_12
+/stram.c/1.40/Fri Apr  8 18:57:55 2005/-ko/Tlinux_2_6_12
+/time.c/1.11/Sun Jun  6 02:12:37 2004/-ko/Tlinux_2_6_12
+D

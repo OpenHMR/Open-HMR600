@@ -1,0 +1,14 @@
+/Makefile/1.8/Mon Jun  2 10:48:37 2003/-ko/Tlinux_2_6_12
+/adb.c/1.3/Fri Nov  1 02:32:26 2002/-ko/Tlinux_2_6_12
+/ansidecl.h/1.4/Wed Jun  4 16:08:02 2003/-ko/Tlinux_2_6_12
+/nonstdio.h/1.5/Thu Jun  5 14:43:27 2003/-ko/Tlinux_2_6_12
+/ppc-dis.c/1.3/Fri Nov  1 02:32:26 2002/-ko/Tlinux_2_6_12
+/ppc-opc.c/1.7/Fri Aug  6 00:33:23 2004/-ko/Tlinux_2_6_12
+/ppc.h/1.3/Fri Nov  1 02:32:26 2002/-ko/Tlinux_2_6_12
+/privinst.h/1.5/Fri Nov  1 02:32:26 2002/-ko/Tlinux_2_6_12
+/setjmp.c/1.3/Fri Nov  1 02:32:26 2002/-ko/Tlinux_2_6_12
+/start.c/1.29/Fri Apr  8 18:58:02 2005/-ko/Tlinux_2_6_12
+/start_8xx.c/1.5/Tue Sep 30 14:27:19 2003/-ko/Tlinux_2_6_12
+/subr_prf.c/1.5/Fri Nov  1 02:32:26 2002/-ko/Tlinux_2_6_12
+/xmon.c/1.26/Fri Apr  8 18:58:02 2005/-ko/Tlinux_2_6_12
+D

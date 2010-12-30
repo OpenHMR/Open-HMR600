@@ -1,0 +1,27 @@
+/.cvsignore/1.8/Fri Nov 12 14:11:32 2004/-ko/Tlinux_2_6_12
+/Kconfig/1.36/Fri Mar 18 17:37:18 2005/-ko/Tlinux_2_6_12
+/Makefile/1.48/Fri Apr  8 18:58:14 2005/-ko/Tlinux_2_6_12
+/ide-cd.c/1.97/Tue Jun  7 13:45:32 2005/-ko/Tlinux_2_6_12
+/ide-cd.h/1.22/Fri Apr  8 18:58:14 2005/-ko/Tlinux_2_6_12
+/ide-disk.c/1.82/Tue Jun  7 13:45:32 2005/-ko/Tlinux_2_6_12
+/ide-dma.c/1.54/Fri Apr  8 18:58:14 2005/-ko/Tlinux_2_6_12
+/ide-floppy.c/1.62/Tue Jun  7 13:45:32 2005/-ko/Tlinux_2_6_12
+/ide-generic.c/1.3/Thu Mar 11 16:46:48 2004/-ko/Tlinux_2_6_12
+/ide-io.c/1.34/Fri Apr  8 18:58:14 2005/-ko/Tlinux_2_6_12
+/ide-iops.c/1.20/Fri Mar 18 17:37:18 2005/-ko/Tlinux_2_6_12
+/ide-lib.c/1.17/Sun Feb 13 20:16:22 2005/-ko/Tlinux_2_6_12
+/ide-pnp.c/1.20/Sun Feb 13 20:16:22 2005/-ko/Tlinux_2_6_12
+/ide-probe.c/1.79/Tue Jun  7 13:45:32 2005/-ko/Tlinux_2_6_12
+/ide-proc.c/1.44/Tue Jun  7 13:45:32 2005/-ko/Tlinux_2_6_12
+/ide-tape.c/1.66/Tue Jun  7 13:45:32 2005/-ko/Tlinux_2_6_12
+/ide-taskfile.c/1.53/Fri Apr  8 18:58:14 2005/-ko/Tlinux_2_6_12
+/ide-timing.h/1.6/Thu Jun  5 11:24:15 2003/-ko/Tlinux_2_6_12
+/ide.c/1.116/Tue Jun  7 13:45:32 2005/-ko/Tlinux_2_6_12
+/setup-pci.c/1.23/Thu Jan 13 14:05:59 2005/-ko/Tlinux_2_6_12
+D/arm////
+D/cris////
+D/h8300////
+D/legacy////
+D/mips////
+D/pci////
+D/ppc////

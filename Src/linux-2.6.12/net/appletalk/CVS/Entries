@@ -1,0 +1,8 @@
+/.cvsignore/1.12/Sun Jan 23 23:04:17 2005/-ko/Tlinux_2_6_12
+/Makefile/1.11/Mon Nov 15 11:49:46 2004/-ko/Tlinux_2_6_12
+/aarp.c/1.27/Tue Jan 25 04:29:01 2005/-ko/Tlinux_2_6_12
+/atalk_proc.c/1.9/Thu Jan 13 14:07:02 2005/-ko/Tlinux_2_6_12
+/ddp.c/1.59/Fri Apr 29 11:15:22 2005/-ko/Tlinux_2_6_12
+/dev.c/1.2/Thu May 19 12:08:49 2005/-ko/Tlinux_2_6_12
+/sysctl_net_atalk.c/1.10/Tue Aug 24 15:10:17 2004/-ko/Tlinux_2_6_12
+D

@@ -1,0 +1,28 @@
+/.cvsignore/1.11/Mon Jul 11 09:59:43 2005/-ko/Tlinux_2_6_12
+/Kconfig/1.7/Tue Jul 20 20:21:27 2004/-ko/Tlinux_2_6_12
+/Makefile/1.15/Mon Jun 28 21:04:17 2004/-ko/Tlinux_2_6_12
+/af_irda.c/1.52/Fri Apr  8 18:58:51 2005/-ko/Tlinux_2_6_12
+/discovery.c/1.16/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/irda_device.c/1.37/Thu May 19 12:08:51 2005/-ko/Tlinux_2_6_12
+/iriap.c/1.29/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/iriap_event.c/1.11/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/irias_object.c/1.22/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/irlap.c/1.30/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/irlap_event.c/1.35/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/irlap_frame.c/1.21/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/irlmp.c/1.38/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/irlmp_event.c/1.23/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/irlmp_frame.c/1.17/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/irmod.c/1.17/Thu Jan 13 14:07:05 2005/-ko/Tlinux_2_6_12
+/irproc.c/1.14/Thu Mar 11 16:47:00 2004/-ko/Tlinux_2_6_12
+/irqueue.c/1.16/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/irsysctl.c/1.18/Thu Jan 13 14:07:05 2005/-ko/Tlinux_2_6_12
+/irttp.c/1.31/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/parameters.c/1.15/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/qos.c/1.24/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/timer.c/1.13/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+/wrapper.c/1.17/Fri Apr  8 18:58:52 2005/-ko/Tlinux_2_6_12
+D/compressors////
+D/ircomm////
+D/irlan////
+D/irnet////

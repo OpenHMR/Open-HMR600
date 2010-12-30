@@ -1,0 +1,8 @@
+/.cvsignore/1.2/Fri Feb 20 17:35:32 2004/-ko/Tlinux_2_6_12
+/Kconfig/1.4/Mon Jul 14 12:23:56 2003/-ko/Tlinux_2_6_12
+/Makefile/1.8/Thu Jan 13 14:05:58 2005/-ko/Tlinux_2_6_12
+/eisa-bus.c/1.12/Mon Oct 25 20:44:23 2004/-ko/Tlinux_2_6_12
+/eisa.ids/1.3/Fri Jul 11 02:13:12 2003/-ko/Tlinux_2_6_12
+/pci_eisa.c/1.4/Fri Mar 18 17:37:16 2005/-ko/Tlinux_2_6_12
+/virtual_root.c/1.4/Tue Aug 26 00:28:53 2003/-ko/Tlinux_2_6_12
+D

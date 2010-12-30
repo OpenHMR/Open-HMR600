@@ -1,0 +1,10 @@
+/.cvsignore/1.9/Fri Nov 12 14:11:36 2004/-ko/Tlinux_2_6_12
+/Makefile/1.5/Mon Jun  2 10:48:42 2003/-ko/Tlinux_2_6_12
+/autofs_i.h/1.23/Tue Sep 30 14:27:27 2003/-ko/Tlinux_2_6_12
+/dirhash.c/1.10/Thu Jun 15 01:56:03 2000/-ko/Tlinux_2_6_12
+/init.c/1.14/Thu Jun  5 18:24:08 2003/-ko/Tlinux_2_6_12
+/inode.c/1.29/Thu Jan 13 14:06:33 2005/-ko/Tlinux_2_6_12
+/root.c/1.39/Sun Sep 19 12:30:16 2004/-ko/Tlinux_2_6_12
+/symlink.c/1.12/Sat Jun 26 15:15:21 2004/-ko/Tlinux_2_6_12
+/waitq.c/1.18/Sat Jun 26 15:15:21 2004/-ko/Tlinux_2_6_12
+D

@@ -1,0 +1,17 @@
+/.cvsignore/1.2/Fri Nov 12 14:11:29 2004/-ko/Tlinux_2_6_12
+/Makefile/1.5/Sun Nov 28 19:14:22 2004/-ko/Tlinux_2_6_12
+/atmel_read_eeprom.c/1.3/Mon Jul 11 10:03:29 2005/-ko/Tlinux_2_6_12
+/atmel_read_eeprom.h/1.5/Mon Jul 11 10:03:29 2005/-ko/Tlinux_2_6_12
+/dbg_io.c/1.4/Tue Dec 28 07:07:02 2004/-ko/Tlinux_2_6_12
+/ht-irq.c/1.3/Thu Apr 14 12:47:15 2005/-ko/Tlinux_2_6_12
+/ht.c/1.7/Thu Apr 14 12:47:15 2005/-ko/Tlinux_2_6_12
+/i2c-yosemite.c/1.4/Thu May 20 15:01:41 2004/-ko/Tlinux_2_6_12
+/i2c-yosemite.h/1.3/Thu May 20 15:01:41 2004/-ko/Tlinux_2_6_12
+/irq-handler.S/1.7/Sat Dec 18 01:32:47 2004/-ko/Tlinux_2_6_12
+/irq.c/1.12/Sat Jan 15 01:31:05 2005/-ko/Tlinux_2_6_12
+/prom.c/1.8/Sat Dec 18 02:40:06 2004/-ko/Tlinux_2_6_12
+/py-console.c/1.3/Wed Dec 15 20:21:57 2004/-ko/Tlinux_2_6_12
+/setup.c/1.13/Tue Jun 21 13:56:32 2005/-ko/Tlinux_2_6_12
+/setup.h/1.4/Thu Dec  9 19:17:01 2004/-ko/Tlinux_2_6_12
+/smp.c/1.11/Wed Dec 15 20:04:59 2004/-ko/Tlinux_2_6_12
+D

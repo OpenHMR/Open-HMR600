@@ -1,0 +1,9 @@
+/.cvsignore/1.9/Mon Jul 11 09:59:43 2005/-ko/Tlinux_2_6_12
+/Kconfig/1.4/Tue Jan 25 04:29:06 2005/-ko/Tlinux_2_6_12
+/Makefile/1.4/Mon Jun  2 10:48:45 2003/-ko/Tlinux_2_6_12
+/irnet.h/1.18/Thu Jan 13 14:07:06 2005/-ko/Tlinux_2_6_12
+/irnet_irda.c/1.19/Fri Mar 18 17:38:26 2005/-ko/Tlinux_2_6_12
+/irnet_irda.h/1.6/Thu Jun  5 11:24:20 2003/-ko/Tlinux_2_6_12
+/irnet_ppp.c/1.18/Fri Mar 18 17:38:26 2005/-ko/Tlinux_2_6_12
+/irnet_ppp.h/1.7/Thu Jan 13 14:07:06 2005/-ko/Tlinux_2_6_12
+D

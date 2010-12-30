@@ -1,0 +1,17 @@
+/.cvsignore/1.9/Fri Nov 12 14:11:32 2004/-ko/Tlinux_2_6_12
+/Kconfig/1.8/Fri Mar 18 17:37:20 2005/-ko/Tlinux_2_6_12
+/Makefile/1.11/Wed Jun  4 14:05:44 2003/-ko/Tlinux_2_6_12
+/evbug.c/1.9/Fri Mar 18 17:37:20 2005/-ko/Tlinux_2_6_12
+/evdev.c/1.30/Fri Mar 18 17:37:20 2005/-ko/Tlinux_2_6_12
+/input.c/1.33/Fri Mar 18 17:37:20 2005/-ko/Tlinux_2_6_12
+/joydev.c/1.25/Tue Jun  7 13:45:33 2005/-ko/Tlinux_2_6_12
+/mousedev.c/1.31/Tue Jun  7 13:45:33 2005/-ko/Tlinux_2_6_12
+/power.c/1.7/Fri Mar 18 17:37:20 2005/-ko/Tlinux_2_6_12
+/tsdev.c/1.15/Fri Mar 18 17:37:20 2005/-ko/Tlinux_2_6_12
+D/gameport////
+D/joystick////
+D/keyboard////
+D/misc////
+D/mouse////
+D/serio////
+D/touchscreen////

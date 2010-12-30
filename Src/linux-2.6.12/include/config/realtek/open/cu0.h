@@ -1,0 +1,1 @@
+#define CONFIG_REALTEK_OPEN_CU0 1

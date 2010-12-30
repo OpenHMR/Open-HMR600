@@ -1,0 +1,1 @@
+#undef CONFIG_YAFFS_9BYTE_TAGS
